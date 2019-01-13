@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://JoshPadnick.com/2019/01/i-launched-my-new-website/</loc>
+    <lastmod>2019-01-13T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://JoshPadnick.com/about/</loc>
     <lastmod>2019-01-04T14:49:33-07:00</lastmod>
   </url>
@@ -264,7 +269,7 @@
   
   <url>
     <loc>https://JoshPadnick.com/</loc>
-    <lastmod>2019-01-04T14:49:33-07:00</lastmod>
+    <lastmod>2019-01-13T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -282,7 +287,7 @@
   
   <url>
     <loc>https://JoshPadnick.com/post/</loc>
-    <lastmod>2017-11-25T00:00:00-07:00</lastmod>
+    <lastmod>2019-01-13T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -312,6 +317,12 @@
   <url>
     <loc>https://JoshPadnick.com/categories/travel/</loc>
     <lastmod>2017-11-25T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://JoshPadnick.com/categories/website/</loc>
+    <lastmod>2019-01-13T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   

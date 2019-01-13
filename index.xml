@@ -6,10 +6,23 @@
     <description>Recent content on Josh Padnick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jan 2019 14:49:33 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://JoshPadnick.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I Launched My New Website!</title>
+      <link>https://JoshPadnick.com/2019/01/i-launched-my-new-website/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://JoshPadnick.com/2019/01/i-launched-my-new-website/</guid>
+      <description>I&amp;rsquo;m so happy to announce that I finally launched my new website, the one you&amp;rsquo;re reading right now. I really enjoy writing for its own sake, but my old Wordpress blog eventually got some configuration issues and rather than fix it, I just wanted to move to a staticly generated site.
+I chose Hugo, a Go-based static site generator and it was a pleasure to work with. At every step, Hugo was an accelerator, never a blocker. Hugo is well-documented, relatively easy to learn, supports all the major features I needed (pagination, categories/tags, partial templates, CSS compilation and magnification, lots of template functions, custom URLs, markdown-based authorship), and of course you have the full power of Go at your finger tips.
+I did the bulk of the work over my holiday vacation. I allocated two days, and it wound up taking 4 days total. Yep, even this humble blog followed the typical software development pattern of things taking about twice as long as you originally expected. As a result, the design is pretty limited. If you have any design suggestions, I&amp;rsquo;d appreciate your sharing them. In the near future, I hope to also add a commenting feature back in.
+I&amp;rsquo;d also like to thank Ibtehaj Raza who helped me migrate a bunch of the content from my old blog to the new one.
+I haven&amp;rsquo;t written anything new on this blog in nearly 1.5 years! It will be fun to start writing thoughts again as I encounter them. Between growing Gruntwork, growing my kids, and life in general, I&amp;rsquo;m looking forward to sharing.</description>
+    </item>
     
     <item>
       <title>About</title>
