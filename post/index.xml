@@ -13,10 +13,10 @@
     
     <item>
       <title>I Launched My New Website!</title>
-      <link>https://JoshPadnick.com/2019/01/i-launched-my-new-website/</link>
+      <link>https://JoshPadnick.com/2019/01/13/i-launched-my-new-website/</link>
       <pubDate>Sun, 13 Jan 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2019/01/i-launched-my-new-website/</guid>
+      <guid>https://JoshPadnick.com/2019/01/13/i-launched-my-new-website/</guid>
       <description>I&amp;rsquo;m so happy to announce that I finally launched my new website, the one you&amp;rsquo;re reading right now. I really enjoy writing for its own sake, but my old Wordpress blog eventually got some configuration issues and rather than fix it, I just wanted to move to a staticly generated site.
 I chose Hugo, a Go-based static site generator and it was a pleasure to work with. At every step, Hugo was an accelerator, never a blocker. Hugo is well-documented, relatively easy to learn, supports all the major features I needed (pagination, categories/tags, partial templates, CSS compilation and magnification, lots of template functions, custom URLs, markdown-based authorship), and of course you have the full power of Go at your finger tips.
 I did the bulk of the work over my holiday vacation. I allocated two days, and it wound up taking 4 days total. Yep, even this humble blog followed the typical software development pattern of things taking about twice as long as you originally expected. As a result, the design is pretty limited. If you have any design suggestions, I&amp;rsquo;d appreciate your sharing them. In the near future, I hope to also add a commenting feature back in.
@@ -26,10 +26,10 @@ I haven&amp;rsquo;t written anything new on this blog in nearly 1.5 years! It wi
     
     <item>
       <title>The Best Tour Guide I’ve Ever Had</title>
-      <link>https://JoshPadnick.com/2017/11/the-best-tour-guide-ive-ever-had/</link>
+      <link>https://JoshPadnick.com/2017/11/25/the-best-tour-guide-ive-ever-had/</link>
       <pubDate>Sat, 25 Nov 2017 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2017/11/the-best-tour-guide-ive-ever-had/</guid>
+      <guid>https://JoshPadnick.com/2017/11/25/the-best-tour-guide-ive-ever-had/</guid>
       <description>&lt;p&gt;Earlier today, my family and I went to the &lt;a href=&#34;https://www.nps.gov/cagr/index.htm&#34;&gt;Casa Grande Ruins National Monument&lt;/a&gt; in Coolidge, Arizona. Coolidge is a pretty small town — less than 12,000 people in total. And it’s at least an hour away from any major city in Arizona. Also, this is hardly the most famous monument in Arizona, so suffice it to say we weren’t expecting too much. Really, it was just a fun random road trip on a holiday weekend.&lt;/p&gt;
 
 &lt;p&gt;Just as we finished eating our lunch at the picnic tables, the park announced that a new guided tour was starting in 5 minutes. That sounded like a good idea so we decided to join.&lt;/p&gt;
@@ -39,10 +39,10 @@ I haven&amp;rsquo;t written anything new on this blog in nearly 1.5 years! It wi
     
     <item>
       <title>The Best Way to Buy a New Car</title>
-      <link>https://JoshPadnick.com/2017/04/the-best-way-to-buy-a-new-car/</link>
+      <link>https://JoshPadnick.com/2017/04/09/the-best-way-to-buy-a-new-car/</link>
       <pubDate>Sun, 09 Apr 2017 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2017/04/the-best-way-to-buy-a-new-car/</guid>
+      <guid>https://JoshPadnick.com/2017/04/09/the-best-way-to-buy-a-new-car/</guid>
       <description>&lt;p&gt;I recently bought a new car.&lt;/p&gt;
 
 &lt;p&gt;It was my first car purchase in 8 years, and being the obsessive geek that I am, I researched every last detail of the optimal process for buying a new car. By optimal I basically mean “get exactly the car you want for the lowest possible price.”&lt;/p&gt;
@@ -54,10 +54,10 @@ I haven&amp;rsquo;t written anything new on this blog in nearly 1.5 years! It wi
     
     <item>
       <title>A Proposal for a new type of media source: &#34;True News&#34;</title>
-      <link>https://JoshPadnick.com/2016/11/a-proposal-for-a-new-type-of-media-source-true-news/</link>
+      <link>https://JoshPadnick.com/2016/11/25/a-proposal-for-a-new-type-of-media-source-true-news/</link>
       <pubDate>Fri, 25 Nov 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2016/11/a-proposal-for-a-new-type-of-media-source-true-news/</guid>
+      <guid>https://JoshPadnick.com/2016/11/25/a-proposal-for-a-new-type-of-media-source-true-news/</guid>
       <description>&lt;p&gt;The November 2016 election has made me think about democracy, government, and our society in new ways for the first time in my life. One topic that seems to keep coming up is this idea of truth in the media.&lt;/p&gt;
 
 &lt;p&gt;I think most people would say they’d rather read news they know to be true than live in a fantasy world where they read news they like but which they know to be false. It’s basically an alternate take on the famous thought experiment, the &lt;a href=&#34;https://en.wikipedia.org/wiki/Experience_machine&#34;&gt;Experience Machine&lt;/a&gt;, and comes to the same conclusion: truth matters.&lt;/p&gt;
@@ -67,10 +67,10 @@ I haven&amp;rsquo;t written anything new on this blog in nearly 1.5 years! It wi
     
     <item>
       <title>Democracy 1.0</title>
-      <link>https://JoshPadnick.com/2016/11/democracy-1.0/</link>
+      <link>https://JoshPadnick.com/2016/11/12/democracy-1.0/</link>
       <pubDate>Sat, 12 Nov 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2016/11/democracy-1.0/</guid>
+      <guid>https://JoshPadnick.com/2016/11/12/democracy-1.0/</guid>
       <description>&lt;p&gt;Whoever you voted for in the recent election, most people agree it was one of the most negative elections in their lifetime. People on both sides of the ballot used words like “disgusted”, “exhausted”, and “embittered” to describe their state of mind come November 8.&lt;/p&gt;
 
 &lt;p&gt;The candidate who won the electoral college lost the national popular vote. Hundreds of thousands of people have come out to protest that the winner is “not my president.” As a result of the election, virtually all levels of government will be controlled by Republicans, yet Democrats represent roughly 50% of the electorate.&lt;/p&gt;
@@ -88,10 +88,10 @@ I haven&amp;rsquo;t written anything new on this blog in nearly 1.5 years! It wi
     
     <item>
       <title>Thoughts from Ireland</title>
-      <link>https://JoshPadnick.com/2016/10/thoughts-from-ireland/</link>
+      <link>https://JoshPadnick.com/2016/10/29/thoughts-from-ireland/</link>
       <pubDate>Sat, 29 Oct 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2016/10/thoughts-from-ireland/</guid>
+      <guid>https://JoshPadnick.com/2016/10/29/thoughts-from-ireland/</guid>
       <description>&lt;p&gt;This past week I had the pleasure of visiting my &lt;a href=&#34;http://ybrikman.com/?ref=joshpadnick.com/ireland&#34;&gt;esteemed Gruntwork co-founder&lt;/a&gt; where he currently lives in Dublin, Ireland. I had a blast, it was awesome to work in person with Jim, and it was the first time I’ve been to Europe in about 15 years!
 
 
@@ -102,7 +102,7 @@ I haven&amp;rsquo;t written anything new on this blog in nearly 1.5 years! It wi
 
 
 &lt;figure style=&#34;padding: 0.25rem; margin: 2rem 0;&#34;&gt;
-    &lt;img style=&#34;max-width: 100%; height: auto;&#34; src=&#34;https://JoshPadnick.com/2016/10/thoughts-from-ireland/images/IMG_4449-1_hu3f80a5f7f6071aee81537d9ffa5d636d_555535_400x500_fit_box_2.png&#34; width=&#34;400&#34; height=&#34;300&#34;&gt;
+    &lt;img style=&#34;max-width: 100%; height: auto;&#34; src=&#34;https://JoshPadnick.com/2016/10/29/thoughts-from-ireland/images/IMG_4449-1_hu3f80a5f7f6071aee81537d9ffa5d636d_555535_400x500_fit_box_2.png&#34; width=&#34;400&#34; height=&#34;300&#34;&gt;
     &lt;figcaption&gt;
         &lt;small&gt;
             
@@ -117,10 +117,10 @@ I haven&amp;rsquo;t written anything new on this blog in nearly 1.5 years! It wi
     
     <item>
       <title>My Talk on New AWS Services</title>
-      <link>https://JoshPadnick.com/2016/09/my-talk-on-new-aws-services/</link>
+      <link>https://JoshPadnick.com/2016/09/06/my-talk-on-new-aws-services/</link>
       <pubDate>Tue, 06 Sep 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2016/09/my-talk-on-new-aws-services/</guid>
+      <guid>https://JoshPadnick.com/2016/09/06/my-talk-on-new-aws-services/</guid>
       <description>I recently gave a talk to the AWS Phoenix Meetup on three new services and updates from AWS: the Application Load Balancer (ALB), EC2 Container Service (ECS), and Kinesis Analytics.
 More than half the software teams I meet today run Docker in production, so there was high interest in how you can use the ALB with an ECS cluster to have a more streamlined docker cluster setup.
 Some important details I since learned that are worth mentioning:
@@ -129,10 +129,10 @@ Some important details I since learned that are worth mentioning:
     
     <item>
       <title>My Thoughts from DockerCon 2016</title>
-      <link>https://JoshPadnick.com/2016/06/my-thoughts-from-dockercon-2016/</link>
+      <link>https://JoshPadnick.com/2016/06/21/my-thoughts-from-dockercon-2016/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2016/06/my-thoughts-from-dockercon-2016/</guid>
+      <guid>https://JoshPadnick.com/2016/06/21/my-thoughts-from-dockercon-2016/</guid>
       <description>&lt;p&gt;I just finished attending &lt;a href=&#34;http://2016.dockercon.com/&#34;&gt;DockerCon 2016&lt;/a&gt;, and overall it was a pretty useful conference! I like to summarize what I learned both for my own mental clarity, and so others can benefit. So here we go.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;How Many Different Ways Can You Deploy a Production Container Cluster?&lt;/strong&gt;&lt;/p&gt;
@@ -144,10 +144,10 @@ Some important details I since learned that are worth mentioning:
     
     <item>
       <title>Introducing Gruntwork</title>
-      <link>https://JoshPadnick.com/2016/05/introducing-gruntwork/</link>
+      <link>https://JoshPadnick.com/2016/05/02/introducing-gruntwork/</link>
       <pubDate>Mon, 02 May 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2016/05/introducing-gruntwork/</guid>
+      <guid>https://JoshPadnick.com/2016/05/02/introducing-gruntwork/</guid>
       <description>In November 2014, I started helping software teams ramp up on Amazon Web Services and DevOps. This was gratifying work because a few years prior, I was involved in a project that did a terrible job of DevOps and suffered greatly for it. Now I was helping other teams avoid that same fate.
 And what an adventure it turned out to be! I got the chance to work with Intel, Infusionsoft, 3-person startups, a well-funded Spotify competitor and so many other interesting companies doing interesting things. I called the consulting practice Phoenix DevOps because, well, I live in Phoenix, Arizona, and it turns out the concept of immutability (sometimes known as “Phoenix Servers”) is a central tenet of DevOps.
 Along the way, I wrote A Comprehensive Guide to Building Scalable Web Apps on AWS, Part 1, and gave lots of DevOps presentations at various meetups and conferences.
@@ -166,10 +166,10 @@ Thanks for reading. Now time to get some Gruntwork done…</description>
     
     <item>
       <title>Play Framework &#43; Docker &#43; CircleCI &#43; AWS &#43; EC2 Container Service</title>
-      <link>https://JoshPadnick.com/2015/11/play-framework-docker-circleci-aws-ec2-container-service/</link>
+      <link>https://JoshPadnick.com/2015/11/11/play-framework-docker-circleci-aws-ec2-container-service/</link>
       <pubDate>Wed, 11 Nov 2015 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2015/11/play-framework-docker-circleci-aws-ec2-container-service/</guid>
+      <guid>https://JoshPadnick.com/2015/11/11/play-framework-docker-circleci-aws-ec2-container-service/</guid>
       <description>I was invited to speak earlier tonight at the Phoenix Java User’s Group on Play Framework, DevOps, and AWS.
 I decided to do a basic walkthrough of Play Framework, and to build a continuous deployment pipeline live as part of the presentation. I wanted to actually implement something so that (a) I would be forced to pick specific technologies I could talk about, and (b) I could talk about the real-world challenges of implementing something.
 I created 4 public GitHub repos to implement this:
@@ -179,10 +179,10 @@ I created 4 public GitHub repos to implement this:
     
     <item>
       <title>My Talk on Choosing the Right Framework for Running Docker Containers in Production</title>
-      <link>https://JoshPadnick.com/2015/09/my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/</link>
+      <link>https://JoshPadnick.com/2015/09/01/my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2015/09/my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/</guid>
+      <guid>https://JoshPadnick.com/2015/09/01/my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/</guid>
       <description>I spoke today at Iterate.PHX, a DevOps conference put on right here in Phoenix, AZ.
 My topic was on choosing the right framework for running docker containers in production. I specifically focus on the “multi-container VM” paradigm since if you’re OK to just run a single container per VM, then you don’t really need a framework at all. In that case, Docker is really just your deployment artifact.
 The slides are below, and if there’s a video of the talk I’ll add that here as well. Enjoy!
@@ -191,10 +191,10 @@ The slides are below, and if there’s a video of the talk I’ll add that here 
     
     <item>
       <title>A Common Pattern in Successful Companies</title>
-      <link>https://JoshPadnick.com/2015/06/a-common-pattern-in-successful-companies/</link>
+      <link>https://JoshPadnick.com/2015/06/22/a-common-pattern-in-successful-companies/</link>
       <pubDate>Mon, 22 Jun 2015 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2015/06/a-common-pattern-in-successful-companies/</guid>
+      <guid>https://JoshPadnick.com/2015/06/22/a-common-pattern-in-successful-companies/</guid>
       <description>&lt;p&gt;I’ve been helping software teams accelerate and succeed with DevOps and Amazon Web Services for a few months now (See &lt;a href=&#34;http://phoenixdevops.com/&#34;&gt;Phoenix DevOps&lt;/a&gt;), and one of the more rewarding parts of the job is getting to observe how multiple different companies operate.&lt;/p&gt;
 
 &lt;p&gt;I’ve seen high-performing teams in companies that are about to IPO, software teams in Fortune 100 companies, startups of about 10 engineers, and software-based companies of no engineers at all! It’s been incredibly enlightening for me to learn about how people organize themselves to get sh*t done.&lt;/p&gt;</description>
@@ -202,10 +202,10 @@ The slides are below, and if there’s a video of the talk I’ll add that here 
     
     <item>
       <title>A Simple Tool for Snapshotting Your EC2 Instances</title>
-      <link>https://JoshPadnick.com/2015/06/a-simple-tool-for-snapshotting-your-ec2-instances/</link>
+      <link>https://JoshPadnick.com/2015/06/18/a-simple-tool-for-snapshotting-your-ec2-instances/</link>
       <pubDate>Thu, 18 Jun 2015 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2015/06/a-simple-tool-for-snapshotting-your-ec2-instances/</guid>
+      <guid>https://JoshPadnick.com/2015/06/18/a-simple-tool-for-snapshotting-your-ec2-instances/</guid>
       <description>&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I wrote a simple tool that makes it easy to create an AMI of your EC2 instance, and then to delete all AMI’s older than X days/hours/minutes with a single command. Check it out at &lt;a href=&#34;https://github.com/josh-padnick/ec2-snapper&#34;&gt;https://github.com/josh-padnick/ec2-snapper&lt;/a&gt;.&lt;/p&gt;
@@ -223,10 +223,10 @@ The slides are below, and if there’s a video of the talk I’ll add that here 
     
     <item>
       <title>A Comprehensive Guide to Scaling Web &amp; Mobile Apps on AWS – Part 1</title>
-      <link>https://JoshPadnick.com/2015/03/a-comprehensive-guide-to-scaling-web-mobile-apps-on-aws-part-1/</link>
+      <link>https://JoshPadnick.com/2015/03/16/a-comprehensive-guide-to-scaling-web-mobile-apps-on-aws-part-1/</link>
       <pubDate>Mon, 16 Mar 2015 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2015/03/a-comprehensive-guide-to-scaling-web-mobile-apps-on-aws-part-1/</guid>
+      <guid>https://JoshPadnick.com/2015/03/16/a-comprehensive-guide-to-scaling-web-mobile-apps-on-aws-part-1/</guid>
       <description>I published a 12,000+ word guide in January on AirPair.com on building scalable apps on Amazon Web Services. I’ve been a longtime Hacker News reader so it was gratifying to see the article get 500+ upvotes on Hacker News! It also attracted about 30,000 readers in the first 24 hours of publication.
 Part 2 of the article is brewing right now, mostly in the form of gaining the real-world experience necessary to write a thorough and helpful guide.
 Read the Article on AirPair.com
@@ -237,10 +237,10 @@ Update/January 6, 2017: Looks like AirPair is back online, so you can view the a
     
     <item>
       <title>Living on $1 Day</title>
-      <link>https://JoshPadnick.com/2015/01/living-on-1-day/</link>
+      <link>https://JoshPadnick.com/2015/01/24/living-on-1-day/</link>
       <pubDate>Sat, 24 Jan 2015 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2015/01/living-on-1-day/</guid>
+      <guid>https://JoshPadnick.com/2015/01/24/living-on-1-day/</guid>
       <description>&lt;p&gt;This past weekend, I volunteered at a clinic in Puerto Peñasco, Mexico (better known to Americans as “Rocky Point”).  The clinic was makeshift, conducted in a church in a local neighborhood.  It was completely free to the residents and funded with donations.&lt;/p&gt;
 
 &lt;p&gt;The surrounding residents would be considered low income by American standards, but I sat on many pre-visit interviews with them and most of them don’t think of themselves as struggling.  They’re really just living their lives.&lt;/p&gt;
@@ -250,10 +250,10 @@ Update/January 6, 2017: Looks like AirPair is back online, so you can view the a
     
     <item>
       <title>What I Learned Teaching Programming to 14-Year Olds</title>
-      <link>https://JoshPadnick.com/2014/11/what-i-learned-teaching-programming-to-14-year-olds/</link>
+      <link>https://JoshPadnick.com/2014/11/09/what-i-learned-teaching-programming-to-14-year-olds/</link>
       <pubDate>Sun, 09 Nov 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2014/11/what-i-learned-teaching-programming-to-14-year-olds/</guid>
+      <guid>https://JoshPadnick.com/2014/11/09/what-i-learned-teaching-programming-to-14-year-olds/</guid>
       <description>&lt;p&gt;Yesterday I volunteered at &lt;a href=&#34;https://codeday.org/phoenix&#34;&gt;CodeDay Phoenix&lt;/a&gt; as a mentor.  The goal of the event was to take young kids (mostly middle school and early high school) and give them an opportunity to code something in 24 hours.&lt;/p&gt;
 
 &lt;p&gt;As a mentor, my job was to “walk around and help where I could.”&lt;/p&gt;
@@ -263,10 +263,10 @@ Update/January 6, 2017: Looks like AirPair is back online, so you can view the a
     
     <item>
       <title>AWS Developer Fundamentals</title>
-      <link>https://JoshPadnick.com/2014/10/aws-developer-fundamentals/</link>
+      <link>https://JoshPadnick.com/2014/10/18/aws-developer-fundamentals/</link>
       <pubDate>Sat, 18 Oct 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2014/10/aws-developer-fundamentals/</guid>
+      <guid>https://JoshPadnick.com/2014/10/18/aws-developer-fundamentals/</guid>
       <description>My second presentation at Desert Code Camp 2014.2 was on Amazon Web Services.
 It was exciting to see standing room only during the talk! My main concern was keeping it interesting. The natural temptation for this kind of presentation is to do a “documentation summary” but that risks afflicting the audience with severe boredom. So I used a lot of visuals and everyday analogies in explaining AWS.
 I spoke both about the big picture, and then went into detail on two of the most popular AWS services, EC2 and S3. I also briefly described VPC, IAM, RDS, DynamoDB, Glacier, and SES. I received numerous positive comments on the talk, so I’m pleased post the slides below.
@@ -275,10 +275,10 @@ I spoke both about the big picture, and then went into detail on two of the most
     
     <item>
       <title>Introduction to EmberJS</title>
-      <link>https://JoshPadnick.com/2014/10/introduction-to-emberjs/</link>
+      <link>https://JoshPadnick.com/2014/10/18/introduction-to-emberjs/</link>
       <pubDate>Sat, 18 Oct 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2014/10/introduction-to-emberjs/</guid>
+      <guid>https://JoshPadnick.com/2014/10/18/introduction-to-emberjs/</guid>
       <description>I gave two presentations at Desert Code Camp 2014.2 earlier today. The first was an intro to EmberJS.
 Ember is known for its steep initial learning curve and it was an interesting challenge trying to pack in so many concepts in 60 minutes. I had a great time preparing for, and giving the talk.
  </description>
@@ -286,10 +286,10 @@ Ember is known for its steep initial learning curve and it was an interesting ch
     
     <item>
       <title>Doing Business in The Right Order</title>
-      <link>https://JoshPadnick.com/2014/10/doing-business-in-the-right-order/</link>
+      <link>https://JoshPadnick.com/2014/10/04/doing-business-in-the-right-order/</link>
       <pubDate>Sat, 04 Oct 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2014/10/doing-business-in-the-right-order/</guid>
+      <guid>https://JoshPadnick.com/2014/10/04/doing-business-in-the-right-order/</guid>
       <description>&lt;p&gt;Recently I celebrated my 10th year at &lt;a href=&#34;http://omedix.com/&#34;&gt;Omedix&lt;/a&gt;, the company I started when I was 24 years old.  At 34, it is a little hard to imagine I’ve done anything for 10 years!&lt;/p&gt;
 
 &lt;p&gt;The milestone has made me reflect on some of the early decisions I made when I first got started.  There were many really good decisions, but there were plenty of bad ones, too.  And of course when you’re in your early 20’s you have that perfect combination of extreme confidence and supreme ignorance.  Sometimes that can be a good thing, and sometimes it can be as bad as it sounds.&lt;/p&gt;</description>
@@ -297,10 +297,10 @@ Ember is known for its steep initial learning curve and it was an interesting ch
     
     <item>
       <title>Ally Bank. I Hardly Knew Ye.</title>
-      <link>https://JoshPadnick.com/2014/09/ally-bank.-i-hardly-knew-ye./</link>
+      <link>https://JoshPadnick.com/2014/09/10/ally-bank.-i-hardly-knew-ye./</link>
       <pubDate>Wed, 10 Sep 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2014/09/ally-bank.-i-hardly-knew-ye./</guid>
+      <guid>https://JoshPadnick.com/2014/09/10/ally-bank.-i-hardly-knew-ye./</guid>
       <description>&lt;p&gt;This is my review of my first couple of weeks with Ally Bank, and why I ultimately decided to stay with stodgy, old Chase.&lt;/p&gt;
 
 
@@ -312,7 +312,7 @@ Ember is known for its steep initial learning curve and it was an interesting ch
 
 
 &lt;figure style=&#34;padding: 0.25rem; margin: 2rem 0;&#34;&gt;
-    &lt;img style=&#34;max-width: 100%; height: auto;&#34; src=&#34;https://JoshPadnick.com/2014/09/ally-bank.-i-hardly-knew-ye./images/ALLY_Bank_withRegistration_hu951708bdb2349ed215365de7a1437f71_7344_400x500_fit_q75_box.jpg&#34; width=&#34;300&#34; height=&#34;123&#34;&gt;
+    &lt;img style=&#34;max-width: 100%; height: auto;&#34; src=&#34;https://JoshPadnick.com/2014/09/10/ally-bank.-i-hardly-knew-ye./images/ALLY_Bank_withRegistration_hu951708bdb2349ed215365de7a1437f71_7344_400x500_fit_q75_box.jpg&#34; width=&#34;300&#34; height=&#34;123&#34;&gt;
     &lt;figcaption&gt;
         &lt;small&gt;
             
@@ -329,10 +329,10 @@ Ember is known for its steep initial learning curve and it was an interesting ch
     
     <item>
       <title>The User Interface of the Violin</title>
-      <link>https://JoshPadnick.com/2014/08/the-user-interface-of-the-violin/</link>
+      <link>https://JoshPadnick.com/2014/08/07/the-user-interface-of-the-violin/</link>
       <pubDate>Thu, 07 Aug 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2014/08/the-user-interface-of-the-violin/</guid>
+      <guid>https://JoshPadnick.com/2014/08/07/the-user-interface-of-the-violin/</guid>
       <description>Earlier today, I met a friend for breakfast who’s an outstanding professional UX designer. I was curious about something:
 “How do you balance the need to give people a user interface they’re familiar with and can do something with right away, against the opportunity to innovate and do new things that may take more time to learn?”
 He gave a beautiful analogy in response.
@@ -342,20 +342,20 @@ I like that idea because I’ve met many designers who get so mesmerized by the 
     
     <item>
       <title>My Desert Code Camp Presentation on Server Configuration Management with Chef</title>
-      <link>https://JoshPadnick.com/2014/04/my-desert-code-camp-presentation-on-server-configuration-management-with-chef/</link>
+      <link>https://JoshPadnick.com/2014/04/05/my-desert-code-camp-presentation-on-server-configuration-management-with-chef/</link>
       <pubDate>Sat, 05 Apr 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2014/04/my-desert-code-camp-presentation-on-server-configuration-management-with-chef/</guid>
+      <guid>https://JoshPadnick.com/2014/04/05/my-desert-code-camp-presentation-on-server-configuration-management-with-chef/</guid>
       <description>I gave this talk at Desert Code Camp earlier today as part of the DevOps track. It gives an introduction to Chef with a special emphasis on getting you to Hello World and beyond.
 They say Chef has a steep learning curve, but I think that’s only because there are a lot of concepts you need to know before you can do the most basic things. I tried to cover most of those concepts here. I also included some best practices I discovered such as how to handle secrets like passwords and certificates using Chef.  </description>
     </item>
     
     <item>
       <title>Checks and Balances in Agile Development</title>
-      <link>https://JoshPadnick.com/2013/12/checks-and-balances-in-agile-development/</link>
+      <link>https://JoshPadnick.com/2013/12/05/checks-and-balances-in-agile-development/</link>
       <pubDate>Thu, 05 Dec 2013 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2013/12/checks-and-balances-in-agile-development/</guid>
+      <guid>https://JoshPadnick.com/2013/12/05/checks-and-balances-in-agile-development/</guid>
       <description>&lt;p&gt;Recently, I worked on a sprint as part of our company’s scrum process.  This sprint was somewhat unusual in that I was the sole developer.  Not only that but I knew most of the specs in my head, so our product manager and I agreed it wasn’t necessary to write acceptance criteria for the user stories I would be working on.  Since I wrote the acceptance criteria, it made sense that I would be the one who ultimately signed off on the user stories.&lt;/p&gt;
 
 &lt;p&gt;I hate bureaucracy so I was excited about how “lightweight” this process for the sprint was.  But I found something kind of interesting.&lt;/p&gt;
@@ -367,10 +367,10 @@ They say Chef has a steep learning curve, but I think that’s only because ther
     
     <item>
       <title>Paying a Medical Bill Should Not Be This Hard</title>
-      <link>https://JoshPadnick.com/2013/11/paying-a-medical-bill-should-not-be-this-hard/</link>
+      <link>https://JoshPadnick.com/2013/11/24/paying-a-medical-bill-should-not-be-this-hard/</link>
       <pubDate>Sun, 24 Nov 2013 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2013/11/paying-a-medical-bill-should-not-be-this-hard/</guid>
+      <guid>https://JoshPadnick.com/2013/11/24/paying-a-medical-bill-should-not-be-this-hard/</guid>
       <description>&lt;p&gt;When it comes to paying a medical bill, I’ve had a backwards experience.  As the founder of &lt;a href=&#34;http://omedix.com/&#34;&gt;Omedix&lt;/a&gt;, I built software that’s collected tens of millions of dollars in healthcare bill payments, but I hardly ever paid any healthcare bills of my own.  I was under 30 and hardly went to the doctor!&lt;/p&gt;
 
 &lt;p&gt;Next month I turn 34 and I am fortunate that neither my wife nor I has any chronic medical issues, but now we go to the doctor for the usual annual checkups.  In 2013, our health visits amounted to:&lt;/p&gt;
@@ -388,10 +388,10 @@ They say Chef has a steep learning curve, but I think that’s only because ther
     
     <item>
       <title>Paying a Medical Bill Should Not Be This Hard</title>
-      <link>https://JoshPadnick.com/2013/11/paying-a-medical-bill-should-not-be-this-hard/</link>
+      <link>https://JoshPadnick.com/2013/11/24/paying-a-medical-bill-should-not-be-this-hard/</link>
       <pubDate>Sun, 24 Nov 2013 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2013/11/paying-a-medical-bill-should-not-be-this-hard/</guid>
+      <guid>https://JoshPadnick.com/2013/11/24/paying-a-medical-bill-should-not-be-this-hard/</guid>
       <description>&lt;p&gt;When it comes to paying a medical bill, I’ve had a backwards experience.  As the founder of &lt;a href=&#34;http://omedix.com/&#34;&gt;Omedix&lt;/a&gt;, I built software that’s collected tens of millions of dollars in healthcare bill payments, but I hardly ever paid any healthcare bills of my own.  I was under 30 and hardly went to the doctor!&lt;/p&gt;
 
 &lt;p&gt;Next month I turn 34 and I am fortunate that neither my wife nor I has any chronic medical issues, but now we go to the doctor for the usual annual checkups.  In 2013, our health visits amounted to:&lt;/p&gt;
@@ -409,20 +409,20 @@ They say Chef has a steep learning curve, but I think that’s only because ther
     
     <item>
       <title>Basic Introduction to Play Framework</title>
-      <link>https://JoshPadnick.com/2013/11/basic-introduction-to-play-framework/</link>
+      <link>https://JoshPadnick.com/2013/11/14/basic-introduction-to-play-framework/</link>
       <pubDate>Thu, 14 Nov 2013 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2013/11/basic-introduction-to-play-framework/</guid>
+      <guid>https://JoshPadnick.com/2013/11/14/basic-introduction-to-play-framework/</guid>
       <description>I recently gave a talk at Desert Code Camp 2013.2 on an introduction to Play Framework. I’m just getting started with it, but there are several concepts that got me interested:
  Non-blocking / Evented vs. Threaded Command-line interface to compile, test, and more Clearly inspired by the productivity Ruby on Rails, but written for Java Written using a Functional Programming paradigm Super-easy for creating RESTful web services  The devil’s always in the details, of course, but it’s been a blast so far! More to come on Play…  </description>
     </item>
     
     <item>
       <title>Give, Give, Give, Then Get</title>
-      <link>https://JoshPadnick.com/2013/09/give-give-give-then-get/</link>
+      <link>https://JoshPadnick.com/2013/09/11/give-give-give-then-get/</link>
       <pubDate>Wed, 11 Sep 2013 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2013/09/give-give-give-then-get/</guid>
+      <guid>https://JoshPadnick.com/2013/09/11/give-give-give-then-get/</guid>
       <description>&lt;p&gt;I’ve decided to try an experiment lately.  At every opportunity where I see I can possibly add value to someone in some way, I try to do so.&lt;/p&gt;
 
 &lt;p&gt;This can mean connecting someone with someone else I know, sharing insights from experiences I’ve had that may be applicable, or even mini-projects that leverage my technical skills.&lt;/p&gt;
@@ -434,10 +434,10 @@ They say Chef has a steep learning curve, but I think that’s only because ther
     
     <item>
       <title>Your New Normal and the Futility of Stress</title>
-      <link>https://JoshPadnick.com/2013/06/your-new-normal-and-the-futility-of-stress/</link>
+      <link>https://JoshPadnick.com/2013/06/03/your-new-normal-and-the-futility-of-stress/</link>
       <pubDate>Mon, 03 Jun 2013 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2013/06/your-new-normal-and-the-futility-of-stress/</guid>
+      <guid>https://JoshPadnick.com/2013/06/03/your-new-normal-and-the-futility-of-stress/</guid>
       <description>&lt;p&gt;I had a very powerful business experience about 4 years ago that taught me a lesson that I didn’t fully understand until recently.&lt;/p&gt;
 
 &lt;p&gt;I was the sole owner of a company that received a Letter of Intent from a publicly traded company to be acquired for around $1 million, all before I was even 30 years old. Sure sounds sexy, right?  Well, the catch was that we were not profitable at that time and of course the time between receiving a Letter of Intent and actually signing all the contracts, getting a check in the bank, and considering the acquisition a done deal can be anywhere from a few weeks to over a year.&lt;/p&gt;
@@ -449,10 +449,10 @@ They say Chef has a steep learning curve, but I think that’s only because ther
     
     <item>
       <title>Cutting Out the Noise</title>
-      <link>https://JoshPadnick.com/2011/12/cutting-out-the-noise/</link>
+      <link>https://JoshPadnick.com/2011/12/26/cutting-out-the-noise/</link>
       <pubDate>Mon, 26 Dec 2011 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2011/12/cutting-out-the-noise/</guid>
+      <guid>https://JoshPadnick.com/2011/12/26/cutting-out-the-noise/</guid>
       <description>&lt;p&gt;I keep noticing a recurring theme in my hobbies and in business: cut out the noise and focus only on the essential.&lt;/p&gt;
 
 &lt;p&gt;It seems so simple, but the fascinating thing about life is that the things and people we encounter so rarely do cut through the noise.  Instead it seems like most endeavors of consequence are messy, complicated and hard, and it’s not always clear why.&lt;/p&gt;
@@ -464,10 +464,10 @@ They say Chef has a steep learning curve, but I think that’s only because ther
     
     <item>
       <title>The Power of Frames</title>
-      <link>https://JoshPadnick.com/2011/10/the-power-of-frames/</link>
+      <link>https://JoshPadnick.com/2011/10/13/the-power-of-frames/</link>
       <pubDate>Thu, 13 Oct 2011 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2011/10/the-power-of-frames/</guid>
+      <guid>https://JoshPadnick.com/2011/10/13/the-power-of-frames/</guid>
       <description>&lt;p&gt;I recently read &lt;a href=&#34;http://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854&#34;&gt;Pitch Anything&lt;/a&gt; by Mr. Oren Klaff and one of the coolest concepts in the book was the idea of “frames.”&lt;/p&gt;
 
 &lt;p&gt;A frame is basically the set of beliefs, contexts, and assumptions that implicitly sit behind everything you communicate.  The author argues that when two people meet, their frames eventually “clash” and that only one frame can win out.  This concept was also discussed in &lt;a href=&#34;http://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854&#34;&gt;The Game&lt;/a&gt; by Neil Strauss, but it was presented there in the context of attracting girls, not clients.&lt;/p&gt;
@@ -479,10 +479,10 @@ They say Chef has a steep learning curve, but I think that’s only because ther
     
     <item>
       <title>The Fundamental Entrepreneurship Challenge</title>
-      <link>https://JoshPadnick.com/2011/06/the-fundamental-entrepreneurship-challenge/</link>
+      <link>https://JoshPadnick.com/2011/06/28/the-fundamental-entrepreneurship-challenge/</link>
       <pubDate>Tue, 28 Jun 2011 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2011/06/the-fundamental-entrepreneurship-challenge/</guid>
+      <guid>https://JoshPadnick.com/2011/06/28/the-fundamental-entrepreneurship-challenge/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;&lt;strong&gt;Thrashing&lt;/strong&gt; n. To expend a disproportionately high amount of energy relative to the quality of output you receive&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -494,10 +494,10 @@ They say Chef has a steep learning curve, but I think that’s only because ther
     
     <item>
       <title>The Technical Founder Strengths and Weaknesses</title>
-      <link>https://JoshPadnick.com/2011/04/the-technical-founder-strengths-and-weaknesses/</link>
+      <link>https://JoshPadnick.com/2011/04/05/the-technical-founder-strengths-and-weaknesses/</link>
       <pubDate>Tue, 05 Apr 2011 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2011/04/the-technical-founder-strengths-and-weaknesses/</guid>
+      <guid>https://JoshPadnick.com/2011/04/05/the-technical-founder-strengths-and-weaknesses/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;“We are hugely in favor of the technical founder. We will generally focus on companies started by strong technologists who know exactly what they want to build and how they are going to build it.”
 – &lt;a href=&#34;http://en.wikipedia.org/wiki/Marc_Andreessen&#34;&gt;Marc Andreessen&lt;/a&gt;&lt;/p&gt;
@@ -510,10 +510,10 @@ They say Chef has a steep learning curve, but I think that’s only because ther
     
     <item>
       <title>Lead Like the Great Conductors</title>
-      <link>https://JoshPadnick.com/2011/01/lead-like-the-great-conductors/</link>
+      <link>https://JoshPadnick.com/2011/01/02/lead-like-the-great-conductors/</link>
       <pubDate>Sun, 02 Jan 2011 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2011/01/lead-like-the-great-conductors/</guid>
+      <guid>https://JoshPadnick.com/2011/01/02/lead-like-the-great-conductors/</guid>
       <description>This is a beautiful exposition (and metaphor) on the role of a leader. I’ve often wondered if it’s better to set forth clear guidelines so that everyone knows exactly what to do, or better to provide people a framework within which to “tell their own story” (to use the words of Mr. Talgam in the video below).
 Ultimately, I’ve found that different people respond to different styles. But if there is a “default style,” I believe the conductor who empowers the musicians to perform the music in their own style while providing subtle yet meaningful guidance on context, feeling, and intent produces the most beautiful music.
   </description>
@@ -521,10 +521,10 @@ Ultimately, I’ve found that different people respond to different styles. But 
     
     <item>
       <title>Zappos Offers New Hires $3,000 to Quit After 4 Weeks</title>
-      <link>https://JoshPadnick.com/2010/11/zappos-offers-new-hires-3000-to-quit-after-4-weeks/</link>
+      <link>https://JoshPadnick.com/2010/11/16/zappos-offers-new-hires-3000-to-quit-after-4-weeks/</link>
       <pubDate>Tue, 16 Nov 2010 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2010/11/zappos-offers-new-hires-3000-to-quit-after-4-weeks/</guid>
+      <guid>https://JoshPadnick.com/2010/11/16/zappos-offers-new-hires-3000-to-quit-after-4-weeks/</guid>
       <description>This article was posted two years ago, but it’s still a pretty cool concept. Basically, Zappos (the online shoe site that Amazon recently bought) will train new hires for 4 weeks, and then offers them $3,000 to quit. Check it out for yourself.
 I feel these kinds of counterintuitive moves have a deeper wisdom in them. Conventional wisdom says “why would ever induce someone who we just spent 4 weeks training to quit?” A more zen approach says “we only want to work with people who really want to work with us, and we believe if they take ‘the offer’ we all saved ourselves the heartache of what would have been inevitable.”
 The offer above isn’t perfect and does have its drawbacks, but it’s certainly a concept worth pondering.</description>
@@ -532,19 +532,19 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
     
     <item>
       <title>Eliminating Distractions</title>
-      <link>https://JoshPadnick.com/2010/11/eliminating-distractions/</link>
+      <link>https://JoshPadnick.com/2010/11/13/eliminating-distractions/</link>
       <pubDate>Sat, 13 Nov 2010 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2010/11/eliminating-distractions/</guid>
+      <guid>https://JoshPadnick.com/2010/11/13/eliminating-distractions/</guid>
       <description>&lt;p&gt;When man’s primary job was to find a way to eat each day, distractions were probably not a big deal.  Primitive man had no facebook, no twitter, no IM, no cell phone.  He just had a rumbling in his stomach and the grim realization that either he found some food or he and possibly his family wouldn’t make it past winter.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Starbucks Paradox</title>
-      <link>https://JoshPadnick.com/2010/11/the-starbucks-paradox/</link>
+      <link>https://JoshPadnick.com/2010/11/11/the-starbucks-paradox/</link>
       <pubDate>Thu, 11 Nov 2010 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2010/11/the-starbucks-paradox/</guid>
+      <guid>https://JoshPadnick.com/2010/11/11/the-starbucks-paradox/</guid>
       <description>&lt;p&gt;I would say in the past month I had been going to Starbucks an average of 4 times per week.  One visit of $4.25 is easy enough to swallow, but when I started running the numbers, I was surprised to learn that $4.25 x 4 days per week x 52 weeks per year = are you telling me I spend almost $900/year sipping a latte?&lt;/p&gt;
 
 &lt;p&gt;I long ago realized that the &lt;a href=&#34;http://www.amazon.com/POUR-YOUR-HEART-INTO-STARBUCKS/dp/B0014JVUKU/ref=sr_1_1?ie=UTF8&amp;amp;qid=1289550079&amp;amp;sr=8-1&#34;&gt;value proposition of Starbucks&lt;/a&gt; is much more than just coffee.  Howard Schultz’s original vision was not to “make premium coffee and earn a profit,” but to transport the community-ness of espresso cafes he saw in Italy to the USA, where he felt our society had only grown more isolated over time.&lt;/p&gt;
@@ -556,19 +556,19 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
     
     <item>
       <title>A Series of Stresses or A Series of Adventures</title>
-      <link>https://JoshPadnick.com/2010/09/a-series-of-stresses-or-a-series-of-adventures/</link>
+      <link>https://JoshPadnick.com/2010/09/12/a-series-of-stresses-or-a-series-of-adventures/</link>
       <pubDate>Sun, 12 Sep 2010 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2010/09/a-series-of-stresses-or-a-series-of-adventures/</guid>
+      <guid>https://JoshPadnick.com/2010/09/12/a-series-of-stresses-or-a-series-of-adventures/</guid>
       <description>&lt;p&gt;Although I love what I do, one of the more frustrating aspects of running a business is that YOU are always the bottleneck for everything. The reason we don’t produce sites faster is because I, personally, have to review them. The reason sales are at X but not Y is because I personally have not yet hired the right salesperson and because I personally am too busy to proactively follow up with every single lead. The reason we haven’t developed our new products faster is because I personally have to do some user interface designs but have been busy with other things.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Honesty</title>
-      <link>https://JoshPadnick.com/2009/12/honesty/</link>
+      <link>https://JoshPadnick.com/2009/12/10/honesty/</link>
       <pubDate>Thu, 10 Dec 2009 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2009/12/honesty/</guid>
+      <guid>https://JoshPadnick.com/2009/12/10/honesty/</guid>
       <description>&lt;p&gt;Whew, it’s been a long time since I’ve written on this blog.  Nearly 4 months!&lt;/p&gt;
 
 &lt;p&gt;I feel like I have so many things I’d like to write about, but one thing in particular seems to keep popping up these days: the idea of being honest with people.&lt;/p&gt;
@@ -578,10 +578,10 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
     
     <item>
       <title>Connecting with Your True Purpose</title>
-      <link>https://JoshPadnick.com/2009/08/connecting-with-your-true-purpose/</link>
+      <link>https://JoshPadnick.com/2009/08/10/connecting-with-your-true-purpose/</link>
       <pubDate>Mon, 10 Aug 2009 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2009/08/connecting-with-your-true-purpose/</guid>
+      <guid>https://JoshPadnick.com/2009/08/10/connecting-with-your-true-purpose/</guid>
       <description>&lt;p&gt;Okay, so watch this video for just a little bit before you continue reading:&lt;/p&gt;
 
 
@@ -597,10 +597,10 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
     
     <item>
       <title>Using Your Computer for Actual Work</title>
-      <link>https://JoshPadnick.com/2009/03/using-your-computer-for-actual-work/</link>
+      <link>https://JoshPadnick.com/2009/03/21/using-your-computer-for-actual-work/</link>
       <pubDate>Sat, 21 Mar 2009 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2009/03/using-your-computer-for-actual-work/</guid>
+      <guid>https://JoshPadnick.com/2009/03/21/using-your-computer-for-actual-work/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.paulgraham.com/&#34;&gt;Paul Graham&lt;/a&gt; is one of my favorite essayists. He is incredibly smart, but all his essays are written in a totally straightforward style. My latest favorite is about how society is always scheming to help us procrastinate by giving us distractions, and that while we might feel bad spending 2 hours watching soap operas in front of the TV, somehow we don’t feel quite so bad wasting that same time browsing around on the Internet.&lt;/p&gt;
 
 &lt;p&gt;I’ve been guilty of this, and it’s something I’m actively working to change.&lt;/p&gt;
@@ -610,10 +610,10 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
     
     <item>
       <title>Are Great Businesspeople Also “Clever”?</title>
-      <link>https://JoshPadnick.com/2008/08/are-great-businesspeople-also-clever/</link>
+      <link>https://JoshPadnick.com/2008/08/04/are-great-businesspeople-also-clever/</link>
       <pubDate>Mon, 04 Aug 2008 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2008/08/are-great-businesspeople-also-clever/</guid>
+      <guid>https://JoshPadnick.com/2008/08/04/are-great-businesspeople-also-clever/</guid>
       <description>&lt;p&gt;When I was younger, I thought being a mega-successful entrepreneur like Richard Branson or Michael Dell was a matter of cleverness.  If you were just clever enough to figure out the right market opportunity, then you could make millions.&lt;/p&gt;
 
 &lt;p&gt;How wrong I was.&lt;/p&gt;
@@ -623,10 +623,10 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
     
     <item>
       <title>Are You Ambitious or Grandiose?</title>
-      <link>https://JoshPadnick.com/2008/06/are-you-ambitious-or-grandiose/</link>
+      <link>https://JoshPadnick.com/2008/06/17/are-you-ambitious-or-grandiose/</link>
       <pubDate>Tue, 17 Jun 2008 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2008/06/are-you-ambitious-or-grandiose/</guid>
+      <guid>https://JoshPadnick.com/2008/06/17/are-you-ambitious-or-grandiose/</guid>
       <description>&lt;p&gt;One of the things I really love about my life is I’ve met more entrepreneurs than I can count. One of the coolest things about entrepreneurs is that they seem to have zero demographics in common. In other words, I’ve met entrepreneurs…&lt;/p&gt;
 
 &lt;ul&gt;
@@ -643,10 +643,10 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
     
     <item>
       <title>Why Do Entrepreneurs Become Entrepreneurs?</title>
-      <link>https://JoshPadnick.com/2006/11/why-do-entrepreneurs-become-entrepreneurs/</link>
+      <link>https://JoshPadnick.com/2006/11/06/why-do-entrepreneurs-become-entrepreneurs/</link>
       <pubDate>Mon, 06 Nov 2006 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2006/11/why-do-entrepreneurs-become-entrepreneurs/</guid>
+      <guid>https://JoshPadnick.com/2006/11/06/why-do-entrepreneurs-become-entrepreneurs/</guid>
       <description>&lt;p&gt;I recently stumbled upon &lt;a href=&#34;http://www.rockstartup.com/&#34;&gt;RockStartup.com&lt;/a&gt;. It’s basically a documentary, split up into several episodes, that covers the birth of the website &lt;a href=&#34;http://www.payperpost.com/&#34;&gt;PayPerPost.com&lt;/a&gt; by following around the CEO/Founder, Ted, and the PR person, Britt.&lt;/p&gt;
 
 &lt;p&gt;PayPerPost (”PPP”) is a weird concept — PPP pays bloggers to write content and sources content from Publishers, and then earns money by charging advertisers to put ads on PPP-sponsored blog sites. It’s been controversial because blogging’s rise to fame is due to its unbiased nature, and paying someone to blog, well, I guess it’s hard for them not to be biased.&lt;/p&gt;
@@ -660,10 +660,10 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
     
     <item>
       <title>Sometimes, Actually Pursuing a Goal is the Worst Way to Achieve It</title>
-      <link>https://JoshPadnick.com/2006/05/sometimes-actually-pursuing-a-goal-is-the-worst-way-to-achieve-it/</link>
+      <link>https://JoshPadnick.com/2006/05/08/sometimes-actually-pursuing-a-goal-is-the-worst-way-to-achieve-it/</link>
       <pubDate>Mon, 08 May 2006 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2006/05/sometimes-actually-pursuing-a-goal-is-the-worst-way-to-achieve-it/</guid>
+      <guid>https://JoshPadnick.com/2006/05/08/sometimes-actually-pursuing-a-goal-is-the-worst-way-to-achieve-it/</guid>
       <description>&lt;p&gt;There’s a strange phenomenon I’ve discovered in business and in life: I call them “Counter-Goals”.&lt;/p&gt;
 
 &lt;p&gt;So what’s a Counter-Goal? Well, it’s a goal which is achieved best by not pursuing it in the first place. Huh?&lt;/p&gt;
@@ -673,10 +673,10 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
     
     <item>
       <title>Strange Lessons in Learning How to Sell Well</title>
-      <link>https://JoshPadnick.com/2006/04/strange-lessons-in-learning-how-to-sell-well/</link>
+      <link>https://JoshPadnick.com/2006/04/04/strange-lessons-in-learning-how-to-sell-well/</link>
       <pubDate>Tue, 04 Apr 2006 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2006/04/strange-lessons-in-learning-how-to-sell-well/</guid>
+      <guid>https://JoshPadnick.com/2006/04/04/strange-lessons-in-learning-how-to-sell-well/</guid>
       <description>&lt;p&gt;I’ve never really thought of myself as a salesperson.&lt;/p&gt;
 
 &lt;p&gt;I remember when I was younger I interned for GE and they had some career fair at the end of the summer where you met people in all the different &amp;ldquo;early talent identification&amp;rdquo; programs. When I got to the sales people, they all just seemed so smooth. I didn’t trust them, and I certainly didn’t want to buy anything from them. I just couldn’t picture myself joining that table over some of the others.&lt;/p&gt;

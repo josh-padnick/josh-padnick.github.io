@@ -13,10 +13,10 @@
     
     <item>
       <title>Introducing Gruntwork</title>
-      <link>https://JoshPadnick.com/2016/05/introducing-gruntwork/</link>
+      <link>https://JoshPadnick.com/2016/05/02/introducing-gruntwork/</link>
       <pubDate>Mon, 02 May 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2016/05/introducing-gruntwork/</guid>
+      <guid>https://JoshPadnick.com/2016/05/02/introducing-gruntwork/</guid>
       <description>In November 2014, I started helping software teams ramp up on Amazon Web Services and DevOps. This was gratifying work because a few years prior, I was involved in a project that did a terrible job of DevOps and suffered greatly for it. Now I was helping other teams avoid that same fate.
 And what an adventure it turned out to be! I got the chance to work with Intel, Infusionsoft, 3-person startups, a well-funded Spotify competitor and so many other interesting companies doing interesting things. I called the consulting practice Phoenix DevOps because, well, I live in Phoenix, Arizona, and it turns out the concept of immutability (sometimes known as “Phoenix Servers”) is a central tenet of DevOps.
 Along the way, I wrote A Comprehensive Guide to Building Scalable Web Apps on AWS, Part 1, and gave lots of DevOps presentations at various meetups and conferences.
@@ -35,10 +35,10 @@ Thanks for reading. Now time to get some Gruntwork done…</description>
     
     <item>
       <title>A Common Pattern in Successful Companies</title>
-      <link>https://JoshPadnick.com/2015/06/a-common-pattern-in-successful-companies/</link>
+      <link>https://JoshPadnick.com/2015/06/22/a-common-pattern-in-successful-companies/</link>
       <pubDate>Mon, 22 Jun 2015 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2015/06/a-common-pattern-in-successful-companies/</guid>
+      <guid>https://JoshPadnick.com/2015/06/22/a-common-pattern-in-successful-companies/</guid>
       <description>&lt;p&gt;I’ve been helping software teams accelerate and succeed with DevOps and Amazon Web Services for a few months now (See &lt;a href=&#34;http://phoenixdevops.com/&#34;&gt;Phoenix DevOps&lt;/a&gt;), and one of the more rewarding parts of the job is getting to observe how multiple different companies operate.&lt;/p&gt;
 
 &lt;p&gt;I’ve seen high-performing teams in companies that are about to IPO, software teams in Fortune 100 companies, startups of about 10 engineers, and software-based companies of no engineers at all! It’s been incredibly enlightening for me to learn about how people organize themselves to get sh*t done.&lt;/p&gt;</description>
@@ -46,10 +46,10 @@ Thanks for reading. Now time to get some Gruntwork done…</description>
     
     <item>
       <title>Doing Business in The Right Order</title>
-      <link>https://JoshPadnick.com/2014/10/doing-business-in-the-right-order/</link>
+      <link>https://JoshPadnick.com/2014/10/04/doing-business-in-the-right-order/</link>
       <pubDate>Sat, 04 Oct 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2014/10/doing-business-in-the-right-order/</guid>
+      <guid>https://JoshPadnick.com/2014/10/04/doing-business-in-the-right-order/</guid>
       <description>&lt;p&gt;Recently I celebrated my 10th year at &lt;a href=&#34;http://omedix.com/&#34;&gt;Omedix&lt;/a&gt;, the company I started when I was 24 years old.  At 34, it is a little hard to imagine I’ve done anything for 10 years!&lt;/p&gt;
 
 &lt;p&gt;The milestone has made me reflect on some of the early decisions I made when I first got started.  There were many really good decisions, but there were plenty of bad ones, too.  And of course when you’re in your early 20’s you have that perfect combination of extreme confidence and supreme ignorance.  Sometimes that can be a good thing, and sometimes it can be as bad as it sounds.&lt;/p&gt;</description>
@@ -57,10 +57,10 @@ Thanks for reading. Now time to get some Gruntwork done…</description>
     
     <item>
       <title>Your New Normal and the Futility of Stress</title>
-      <link>https://JoshPadnick.com/2013/06/your-new-normal-and-the-futility-of-stress/</link>
+      <link>https://JoshPadnick.com/2013/06/03/your-new-normal-and-the-futility-of-stress/</link>
       <pubDate>Mon, 03 Jun 2013 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2013/06/your-new-normal-and-the-futility-of-stress/</guid>
+      <guid>https://JoshPadnick.com/2013/06/03/your-new-normal-and-the-futility-of-stress/</guid>
       <description>&lt;p&gt;I had a very powerful business experience about 4 years ago that taught me a lesson that I didn’t fully understand until recently.&lt;/p&gt;
 
 &lt;p&gt;I was the sole owner of a company that received a Letter of Intent from a publicly traded company to be acquired for around $1 million, all before I was even 30 years old. Sure sounds sexy, right?  Well, the catch was that we were not profitable at that time and of course the time between receiving a Letter of Intent and actually signing all the contracts, getting a check in the bank, and considering the acquisition a done deal can be anywhere from a few weeks to over a year.&lt;/p&gt;
@@ -72,10 +72,10 @@ Thanks for reading. Now time to get some Gruntwork done…</description>
     
     <item>
       <title>Cutting Out the Noise</title>
-      <link>https://JoshPadnick.com/2011/12/cutting-out-the-noise/</link>
+      <link>https://JoshPadnick.com/2011/12/26/cutting-out-the-noise/</link>
       <pubDate>Mon, 26 Dec 2011 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2011/12/cutting-out-the-noise/</guid>
+      <guid>https://JoshPadnick.com/2011/12/26/cutting-out-the-noise/</guid>
       <description>&lt;p&gt;I keep noticing a recurring theme in my hobbies and in business: cut out the noise and focus only on the essential.&lt;/p&gt;
 
 &lt;p&gt;It seems so simple, but the fascinating thing about life is that the things and people we encounter so rarely do cut through the noise.  Instead it seems like most endeavors of consequence are messy, complicated and hard, and it’s not always clear why.&lt;/p&gt;
@@ -87,10 +87,10 @@ Thanks for reading. Now time to get some Gruntwork done…</description>
     
     <item>
       <title>The Power of Frames</title>
-      <link>https://JoshPadnick.com/2011/10/the-power-of-frames/</link>
+      <link>https://JoshPadnick.com/2011/10/13/the-power-of-frames/</link>
       <pubDate>Thu, 13 Oct 2011 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2011/10/the-power-of-frames/</guid>
+      <guid>https://JoshPadnick.com/2011/10/13/the-power-of-frames/</guid>
       <description>&lt;p&gt;I recently read &lt;a href=&#34;http://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854&#34;&gt;Pitch Anything&lt;/a&gt; by Mr. Oren Klaff and one of the coolest concepts in the book was the idea of “frames.”&lt;/p&gt;
 
 &lt;p&gt;A frame is basically the set of beliefs, contexts, and assumptions that implicitly sit behind everything you communicate.  The author argues that when two people meet, their frames eventually “clash” and that only one frame can win out.  This concept was also discussed in &lt;a href=&#34;http://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854&#34;&gt;The Game&lt;/a&gt; by Neil Strauss, but it was presented there in the context of attracting girls, not clients.&lt;/p&gt;
@@ -102,10 +102,10 @@ Thanks for reading. Now time to get some Gruntwork done…</description>
     
     <item>
       <title>The Fundamental Entrepreneurship Challenge</title>
-      <link>https://JoshPadnick.com/2011/06/the-fundamental-entrepreneurship-challenge/</link>
+      <link>https://JoshPadnick.com/2011/06/28/the-fundamental-entrepreneurship-challenge/</link>
       <pubDate>Tue, 28 Jun 2011 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2011/06/the-fundamental-entrepreneurship-challenge/</guid>
+      <guid>https://JoshPadnick.com/2011/06/28/the-fundamental-entrepreneurship-challenge/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;&lt;strong&gt;Thrashing&lt;/strong&gt; n. To expend a disproportionately high amount of energy relative to the quality of output you receive&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -117,10 +117,10 @@ Thanks for reading. Now time to get some Gruntwork done…</description>
     
     <item>
       <title>The Technical Founder Strengths and Weaknesses</title>
-      <link>https://JoshPadnick.com/2011/04/the-technical-founder-strengths-and-weaknesses/</link>
+      <link>https://JoshPadnick.com/2011/04/05/the-technical-founder-strengths-and-weaknesses/</link>
       <pubDate>Tue, 05 Apr 2011 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2011/04/the-technical-founder-strengths-and-weaknesses/</guid>
+      <guid>https://JoshPadnick.com/2011/04/05/the-technical-founder-strengths-and-weaknesses/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;“We are hugely in favor of the technical founder. We will generally focus on companies started by strong technologists who know exactly what they want to build and how they are going to build it.”
 – &lt;a href=&#34;http://en.wikipedia.org/wiki/Marc_Andreessen&#34;&gt;Marc Andreessen&lt;/a&gt;&lt;/p&gt;
@@ -133,10 +133,10 @@ Thanks for reading. Now time to get some Gruntwork done…</description>
     
     <item>
       <title>Lead Like the Great Conductors</title>
-      <link>https://JoshPadnick.com/2011/01/lead-like-the-great-conductors/</link>
+      <link>https://JoshPadnick.com/2011/01/02/lead-like-the-great-conductors/</link>
       <pubDate>Sun, 02 Jan 2011 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2011/01/lead-like-the-great-conductors/</guid>
+      <guid>https://JoshPadnick.com/2011/01/02/lead-like-the-great-conductors/</guid>
       <description>This is a beautiful exposition (and metaphor) on the role of a leader. I’ve often wondered if it’s better to set forth clear guidelines so that everyone knows exactly what to do, or better to provide people a framework within which to “tell their own story” (to use the words of Mr. Talgam in the video below).
 Ultimately, I’ve found that different people respond to different styles. But if there is a “default style,” I believe the conductor who empowers the musicians to perform the music in their own style while providing subtle yet meaningful guidance on context, feeling, and intent produces the most beautiful music.
   </description>
@@ -144,10 +144,10 @@ Ultimately, I’ve found that different people respond to different styles. But 
     
     <item>
       <title>Zappos Offers New Hires $3,000 to Quit After 4 Weeks</title>
-      <link>https://JoshPadnick.com/2010/11/zappos-offers-new-hires-3000-to-quit-after-4-weeks/</link>
+      <link>https://JoshPadnick.com/2010/11/16/zappos-offers-new-hires-3000-to-quit-after-4-weeks/</link>
       <pubDate>Tue, 16 Nov 2010 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2010/11/zappos-offers-new-hires-3000-to-quit-after-4-weeks/</guid>
+      <guid>https://JoshPadnick.com/2010/11/16/zappos-offers-new-hires-3000-to-quit-after-4-weeks/</guid>
       <description>This article was posted two years ago, but it’s still a pretty cool concept. Basically, Zappos (the online shoe site that Amazon recently bought) will train new hires for 4 weeks, and then offers them $3,000 to quit. Check it out for yourself.
 I feel these kinds of counterintuitive moves have a deeper wisdom in them. Conventional wisdom says “why would ever induce someone who we just spent 4 weeks training to quit?” A more zen approach says “we only want to work with people who really want to work with us, and we believe if they take ‘the offer’ we all saved ourselves the heartache of what would have been inevitable.”
 The offer above isn’t perfect and does have its drawbacks, but it’s certainly a concept worth pondering.</description>
@@ -155,19 +155,19 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
     
     <item>
       <title>A Series of Stresses or A Series of Adventures</title>
-      <link>https://JoshPadnick.com/2010/09/a-series-of-stresses-or-a-series-of-adventures/</link>
+      <link>https://JoshPadnick.com/2010/09/12/a-series-of-stresses-or-a-series-of-adventures/</link>
       <pubDate>Sun, 12 Sep 2010 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2010/09/a-series-of-stresses-or-a-series-of-adventures/</guid>
+      <guid>https://JoshPadnick.com/2010/09/12/a-series-of-stresses-or-a-series-of-adventures/</guid>
       <description>&lt;p&gt;Although I love what I do, one of the more frustrating aspects of running a business is that YOU are always the bottleneck for everything. The reason we don’t produce sites faster is because I, personally, have to review them. The reason sales are at X but not Y is because I personally have not yet hired the right salesperson and because I personally am too busy to proactively follow up with every single lead. The reason we haven’t developed our new products faster is because I personally have to do some user interface designs but have been busy with other things.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Are Great Businesspeople Also “Clever”?</title>
-      <link>https://JoshPadnick.com/2008/08/are-great-businesspeople-also-clever/</link>
+      <link>https://JoshPadnick.com/2008/08/04/are-great-businesspeople-also-clever/</link>
       <pubDate>Mon, 04 Aug 2008 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2008/08/are-great-businesspeople-also-clever/</guid>
+      <guid>https://JoshPadnick.com/2008/08/04/are-great-businesspeople-also-clever/</guid>
       <description>&lt;p&gt;When I was younger, I thought being a mega-successful entrepreneur like Richard Branson or Michael Dell was a matter of cleverness.  If you were just clever enough to figure out the right market opportunity, then you could make millions.&lt;/p&gt;
 
 &lt;p&gt;How wrong I was.&lt;/p&gt;
@@ -177,10 +177,10 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
     
     <item>
       <title>Are You Ambitious or Grandiose?</title>
-      <link>https://JoshPadnick.com/2008/06/are-you-ambitious-or-grandiose/</link>
+      <link>https://JoshPadnick.com/2008/06/17/are-you-ambitious-or-grandiose/</link>
       <pubDate>Tue, 17 Jun 2008 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2008/06/are-you-ambitious-or-grandiose/</guid>
+      <guid>https://JoshPadnick.com/2008/06/17/are-you-ambitious-or-grandiose/</guid>
       <description>&lt;p&gt;One of the things I really love about my life is I’ve met more entrepreneurs than I can count. One of the coolest things about entrepreneurs is that they seem to have zero demographics in common. In other words, I’ve met entrepreneurs…&lt;/p&gt;
 
 &lt;ul&gt;
@@ -197,10 +197,10 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
     
     <item>
       <title>Why Do Entrepreneurs Become Entrepreneurs?</title>
-      <link>https://JoshPadnick.com/2006/11/why-do-entrepreneurs-become-entrepreneurs/</link>
+      <link>https://JoshPadnick.com/2006/11/06/why-do-entrepreneurs-become-entrepreneurs/</link>
       <pubDate>Mon, 06 Nov 2006 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2006/11/why-do-entrepreneurs-become-entrepreneurs/</guid>
+      <guid>https://JoshPadnick.com/2006/11/06/why-do-entrepreneurs-become-entrepreneurs/</guid>
       <description>&lt;p&gt;I recently stumbled upon &lt;a href=&#34;http://www.rockstartup.com/&#34;&gt;RockStartup.com&lt;/a&gt;. It’s basically a documentary, split up into several episodes, that covers the birth of the website &lt;a href=&#34;http://www.payperpost.com/&#34;&gt;PayPerPost.com&lt;/a&gt; by following around the CEO/Founder, Ted, and the PR person, Britt.&lt;/p&gt;
 
 &lt;p&gt;PayPerPost (”PPP”) is a weird concept — PPP pays bloggers to write content and sources content from Publishers, and then earns money by charging advertisers to put ads on PPP-sponsored blog sites. It’s been controversial because blogging’s rise to fame is due to its unbiased nature, and paying someone to blog, well, I guess it’s hard for them not to be biased.&lt;/p&gt;
@@ -214,10 +214,10 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
     
     <item>
       <title>Strange Lessons in Learning How to Sell Well</title>
-      <link>https://JoshPadnick.com/2006/04/strange-lessons-in-learning-how-to-sell-well/</link>
+      <link>https://JoshPadnick.com/2006/04/04/strange-lessons-in-learning-how-to-sell-well/</link>
       <pubDate>Tue, 04 Apr 2006 15:56:33 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2006/04/strange-lessons-in-learning-how-to-sell-well/</guid>
+      <guid>https://JoshPadnick.com/2006/04/04/strange-lessons-in-learning-how-to-sell-well/</guid>
       <description>&lt;p&gt;I’ve never really thought of myself as a salesperson.&lt;/p&gt;
 
 &lt;p&gt;I remember when I was younger I interned for GE and they had some career fair at the end of the summer where you met people in all the different &amp;ldquo;early talent identification&amp;rdquo; programs. When I got to the sales people, they all just seemed so smooth. I didn’t trust them, and I certainly didn’t want to buy anything from them. I just couldn’t picture myself joining that table over some of the others.&lt;/p&gt;
