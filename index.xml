@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>UX in the Age of Personalization</title>
-      <link>https://JoshPadnick.com/2019/01/13/ux-in-the-age-of-personalization/</link>
+      <title>I Launched My New Website!</title>
+      <link>https://JoshPadnick.com/2019/01/13/i-launched-my-new-website/</link>
       <pubDate>Sun, 13 Jan 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2019/01/13/ux-in-the-age-of-personalization/</guid>
+      <guid>https://JoshPadnick.com/2019/01/13/i-launched-my-new-website/</guid>
       <description>I&amp;rsquo;m so happy to announce that I finally launched my new website, the very one you&amp;rsquo;re reading right now. I really enjoy writing for its own sake, but my old Wordpress blog eventually got some configuration issues and rather than fix it, I just wanted to move to a staticly generated site.
 I chose Hugo, a Go-based static site generator and it was a pleasure to work with. At every step, Hugo was an accelerator, never a blocker. Hugo is well-documented, relatively easy to learn, supports all the major features I needed (pagination, categories/tags, partial templates, CSS compilation and magnification, lots of template functions, custom URLs, markdown-based authorship), and of course you have the full power of Go at your finger tips.
 I did the bulk of the work over my holiday vacation. I allocated two days, and it wound up taking 4 days total. Yep, even this humble blog followed the typical software development pattern of things taking about twice as long as you originally expected. As a result, the design is pretty limited. If you have any design suggestions, I&amp;rsquo;d appreciate your sharing them. In the near future, I hope to also add a commenting feature back in.
