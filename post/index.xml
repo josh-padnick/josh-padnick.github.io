@@ -170,11 +170,9 @@ Thanks for reading. Now time to get some Gruntwork done…</description>
       <pubDate>Wed, 11 Nov 2015 00:00:00 -0700</pubDate>
       
       <guid>https://JoshPadnick.com/2015/11/11/play-framework-docker-circleci-aws-ec2-container-service/</guid>
-      <description>I was invited to speak earlier tonight at the Phoenix Java User’s Group on Play Framework, DevOps, and AWS.
-I decided to do a basic walkthrough of Play Framework, and to build a continuous deployment pipeline live as part of the presentation. I wanted to actually implement something so that (a) I would be forced to pick specific technologies I could talk about, and (b) I could talk about the real-world challenges of implementing something.
-I created 4 public GitHub repos to implement this:
- https://github.com/PhoenixDevOps/phxjug-ctr-base https://github.com/PhoenixDevOps/phxjug-ctr-base-play https://github.com/PhoenixDevOps/phxjug-play-framework-demo https://github.com/PhoenixDevOps/phxjug-ecs-cluster  Check out slide 36 for some directions on how to use all these items together, although I recognize the overall documentation may not be suitable for beginners since the presentation itself filled in the gaps in the slides. Enjoy!
- </description>
+      <description>&lt;p&gt;I was invited to speak earlier tonight at &lt;a href=&#34;http://www.phxjug.org/&#34;&gt;the Phoenix Java User’s Group&lt;/a&gt; on Play Framework, DevOps, and AWS.&lt;/p&gt;
+
+&lt;p&gt;I decided to do a basic walkthrough of Play Framework, and to build a continuous deployment pipeline live as part of the presentation. I wanted to actually implement something so that (a) I would be forced to pick specific technologies I could talk about, and (b) I could talk about the real-world challenges of implementing something.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -183,10 +181,11 @@ I created 4 public GitHub repos to implement this:
       <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
       
       <guid>https://JoshPadnick.com/2015/09/01/my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/</guid>
-      <description>I spoke today at Iterate.PHX, a DevOps conference put on right here in Phoenix, AZ.
-My topic was on choosing the right framework for running docker containers in production. I specifically focus on the “multi-container VM” paradigm since if you’re OK to just run a single container per VM, then you don’t really need a framework at all. In that case, Docker is really just your deployment artifact.
-The slides are below, and if there’s a video of the talk I’ll add that here as well. Enjoy!
- </description>
+      <description>&lt;p&gt;I spoke today at &lt;a href=&#34;http://www.iteratephx.co/&#34;&gt;Iterate.PHX&lt;/a&gt;, a DevOps conference put on right here in Phoenix, AZ.&lt;/p&gt;
+
+&lt;p&gt;My topic was on choosing the right framework for running docker containers in production. I specifically focus on the “multi-container VM” paradigm since if you’re OK to just run a single container per VM, then you don’t really need a framework at all. In that case, Docker is really just your deployment artifact.&lt;/p&gt;
+
+&lt;p&gt;The slides are below, and if there’s a video of the talk I’ll add that here as well. Enjoy!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -267,10 +266,11 @@ Update/January 6, 2017: Looks like AirPair is back online, so you can view the a
       <pubDate>Sat, 18 Oct 2014 00:00:00 -0700</pubDate>
       
       <guid>https://JoshPadnick.com/2014/10/18/aws-developer-fundamentals/</guid>
-      <description>My second presentation at Desert Code Camp 2014.2 was on Amazon Web Services.
-It was exciting to see standing room only during the talk! My main concern was keeping it interesting. The natural temptation for this kind of presentation is to do a “documentation summary” but that risks afflicting the audience with severe boredom. So I used a lot of visuals and everyday analogies in explaining AWS.
-I spoke both about the big picture, and then went into detail on two of the most popular AWS services, EC2 and S3. I also briefly described VPC, IAM, RDS, DynamoDB, Glacier, and SES. I received numerous positive comments on the talk, so I’m pleased post the slides below.
- </description>
+      <description>&lt;p&gt;My second presentation at &lt;a href=&#34;http://oct2014.desertcodecamp.com/home&#34;&gt;Desert Code Camp 2014.2&lt;/a&gt; was on Amazon Web Services.&lt;/p&gt;
+
+&lt;p&gt;It was exciting to see standing room only during the talk! My main concern was keeping it interesting. The natural temptation for this kind of presentation is to do a “documentation summary” but that risks afflicting the audience with severe boredom. So I used a lot of visuals and everyday analogies in explaining AWS.&lt;/p&gt;
+
+&lt;p&gt;I spoke both about the big picture, and then went into detail on two of the most popular AWS services, EC2 and S3. I also briefly described VPC, IAM, RDS, DynamoDB, Glacier, and SES. I received numerous positive comments on the talk, so I’m pleased post the slides below.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -279,9 +279,9 @@ I spoke both about the big picture, and then went into detail on two of the most
       <pubDate>Sat, 18 Oct 2014 00:00:00 -0700</pubDate>
       
       <guid>https://JoshPadnick.com/2014/10/18/introduction-to-emberjs/</guid>
-      <description>I gave two presentations at Desert Code Camp 2014.2 earlier today. The first was an intro to EmberJS.
-Ember is known for its steep initial learning curve and it was an interesting challenge trying to pack in so many concepts in 60 minutes. I had a great time preparing for, and giving the talk.
- </description>
+      <description>&lt;p&gt;I gave two presentations at &lt;a href=&#34;http://oct2014.desertcodecamp.com/home&#34;&gt;Desert Code Camp 2014.2&lt;/a&gt; earlier today. The first was an intro to EmberJS.&lt;/p&gt;
+
+&lt;p&gt;Ember is known for its steep initial learning curve and it was an interesting challenge trying to pack in so many concepts in 60 minutes. I had a great time preparing for, and giving the talk.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -346,8 +346,9 @@ I like that idea because I’ve met many designers who get so mesmerized by the 
       <pubDate>Sat, 05 Apr 2014 00:00:00 -0700</pubDate>
       
       <guid>https://JoshPadnick.com/2014/04/05/my-desert-code-camp-presentation-on-server-configuration-management-with-chef/</guid>
-      <description>I gave this talk at Desert Code Camp earlier today as part of the DevOps track. It gives an introduction to Chef with a special emphasis on getting you to Hello World and beyond.
-They say Chef has a steep learning curve, but I think that’s only because there are a lot of concepts you need to know before you can do the most basic things. I tried to cover most of those concepts here. I also included some best practices I discovered such as how to handle secrets like passwords and certificates using Chef.  </description>
+      <description>&lt;p&gt;I gave this talk at Desert Code Camp earlier today as part of the DevOps track. It gives an introduction to Chef with a special emphasis on getting you to Hello World and beyond.&lt;/p&gt;
+
+&lt;p&gt;They say Chef has a steep learning curve, but I think that’s only because there are a lot of concepts you need to know before you can do the most basic things. I tried to cover most of those concepts here. I also included some best practices I discovered such as how to handle secrets like passwords and certificates using Chef.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -413,8 +414,15 @@ They say Chef has a steep learning curve, but I think that’s only because ther
       <pubDate>Thu, 14 Nov 2013 00:00:00 -0700</pubDate>
       
       <guid>https://JoshPadnick.com/2013/11/14/basic-introduction-to-play-framework/</guid>
-      <description>I recently gave a talk at Desert Code Camp 2013.2 on an introduction to Play Framework. I’m just getting started with it, but there are several concepts that got me interested:
- Non-blocking / Evented vs. Threaded Command-line interface to compile, test, and more Clearly inspired by the productivity Ruby on Rails, but written for Java Written using a Functional Programming paradigm Super-easy for creating RESTful web services  The devil’s always in the details, of course, but it’s been a blast so far! More to come on Play…  </description>
+      <description>&lt;p&gt;I recently gave a talk at Desert Code Camp 2013.2 on an introduction to &lt;a href=&#34;http://playframework.com/&#34;&gt;Play Framework&lt;/a&gt;. I’m just getting started with it, but there are several concepts that got me interested:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Non-blocking / Evented vs. Threaded&lt;/li&gt;
+&lt;li&gt;Command-line interface to compile, test, and more&lt;/li&gt;
+&lt;li&gt;Clearly inspired by the productivity Ruby on Rails, but written for Java&lt;/li&gt;
+&lt;li&gt;Written using a Functional Programming paradigm&lt;/li&gt;
+&lt;li&gt;Super-easy for creating RESTful web services&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -682,6 +690,18 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
 &lt;p&gt;I remember when I was younger I interned for GE and they had some career fair at the end of the summer where you met people in all the different &amp;ldquo;early talent identification&amp;rdquo; programs. When I got to the sales people, they all just seemed so smooth. I didn’t trust them, and I certainly didn’t want to buy anything from them. I just couldn’t picture myself joining that table over some of the others.&lt;/p&gt;
 
 &lt;p&gt;Well, fast forward a few years after I started &lt;a href=&#34;http://omedix.com&#34;&gt;Omedix&lt;/a&gt; and reality struck – I had inadvertently positioned myself as the sole salesperson for our company. Either I sold our product or we didn’t do business; it was that simple. And so I had to start learning how to sell.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://JoshPadnick.com/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://JoshPadnick.com/1/01/01/</guid>
+      <description>When It&amp;rsquo;s Inconvient for the Company Recently, I was working on the parental leave policy for Gruntwork, and it raised a bunch of questions: How many weeks off do we give to new parents? Do we pay them 100% of their salary while on leave? How long do they have to be employed with us before they get the full benefit? Do Moms get more time off than Dads? Why or why not?
+In an ideal world, we&amp;rsquo;d match the most generous parental leave policy in the industry, which appears to be Netflix, where they offer 52 weeks of fully paid maternity leave. But we&amp;rsquo;re just 12 people right now, so one person being out is like losing 10% of our team. And we have a finite amount of cash reserves to fall back on, so a more generous parental leave policy for the new parents on the team has the potential to make the entire company worse off.
+That gave me a realization: Any parental leave policy is &amp;ldquo;inconvenient&amp;rdquo; for the company. The company loses a valuable member of the team for potentially several months. The company has to pay a salary without getting any output in return. The time frame is short enough that it may not make sense to hire a new person to pick up the load.
+But if it&amp;rsquo;s so inconvenient, why do we do it? Because it&amp;rsquo;s part of our values.</description>
     </item>
     
   </channel>
