@@ -6,10 +6,29 @@
     <description>Recent content on Josh Padnick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Feb 2019 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://JoshPadnick.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>When It&#39;s Inconvenient for the Company</title>
+      <link>https://JoshPadnick.com/2019/02/19/when-its-inconvenient-for-the-company/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://JoshPadnick.com/2019/02/19/when-its-inconvenient-for-the-company/</guid>
+      <description>&lt;p&gt;This is a post about striking the right balance between values and business needs.&lt;/p&gt;
+
+&lt;p&gt;A few weeks ago, I helped finalize the parental leave policy at &lt;a href=&#34;https://gruntwork.io&#34;&gt;Gruntwork&lt;/a&gt; and an interesting philosophical discussion came up: How many resources is the company willing to allocate to creating a humane parenatal leave policy?&lt;/p&gt;
+
+&lt;p&gt;Some larger companies like Netflix &lt;a href=&#34;https://www.recode.net/2018/1/31/16944976/new-parents-tech-companies-google-hp-facebook-twitter-netflix&#34;&gt;offer full pay for 1 year&lt;/a&gt; when your kid is born. As a parent, that kind of benefit is…amazing. If I were an employee of Netflix, I would revel in the idea that Netflix cares about me and my family, not just the next release milestone. It would make me feel a deeper emotional connecton to the company.&lt;/p&gt;
+
+&lt;p&gt;But Gruntwork is just 12 people total with 9 engineers, and while we&amp;rsquo;ve been profitable from Day 1 and &lt;a href=&#34;https://blog.gruntwork.io/how-we-got-to-1-million-in-annual-recurring-revenue-with-0-in-fundraising-340ed2b4e158&#34;&gt;growing fast&lt;/a&gt;, if one engineer were to leave for a year, that would reduce our engineering output by, on average, 11% while still having to carry that perons&amp;rsquo;s salary. Can you imagine what kind of impact an 11% engineering output reduction would have on NetFlix? Let&amp;rsquo;s say NetFlix has 2,000 engineers. That&amp;rsquo;d be 220 engineers gone for a year…while on full payroll!&lt;/p&gt;
+
+&lt;p&gt;The reality is that, as much as I personally want to support a year-long parental leave policy, the company simply can&amp;rsquo;t afford it right now. Or to be more accurate, if we chose to support a 1-year parental leave policy, we would have to increase our cash reserves to a point that would significantly slow down hiring and other initiatives requiring working capital.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, having any parental leave policy at all is &amp;ldquo;inconvenient&amp;rdquo; for the company in the sense that it reduces your ability to pump out new features and bug fixes and/or puts additional load on the rest of the team. So…should we just have no parental leave policy at all?&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>I Launched My New Website!</title>
@@ -708,21 +727,6 @@ The offer above isn’t perfect and does have its drawbacks, but it’s certainl
 &lt;p&gt;I remember when I was younger I interned for GE and they had some career fair at the end of the summer where you met people in all the different &amp;ldquo;early talent identification&amp;rdquo; programs. When I got to the sales people, they all just seemed so smooth. I didn’t trust them, and I certainly didn’t want to buy anything from them. I just couldn’t picture myself joining that table over some of the others.&lt;/p&gt;
 
 &lt;p&gt;Well, fast forward a few years after I started &lt;a href=&#34;http://omedix.com&#34;&gt;Omedix&lt;/a&gt; and reality struck – I had inadvertently positioned myself as the sole salesperson for our company. Either I sold our product or we didn’t do business; it was that simple. And so I had to start learning how to sell.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://JoshPadnick.com/1/01/01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://JoshPadnick.com/1/01/01/</guid>
-      <description>When It&amp;rsquo;s Inconvient for the Company Recently, I&amp;rsquo;ve been working on the parental leave policy for Gruntwork. It&amp;rsquo;s brought up a bunch of interesting questions like how much time should new parents get once a new child arrives? What will primary caregivers receive vs. secondary caregivers? Do we pay their full salary, or a portion of it?
-Gruntwork is a distributed team, with about half of us in the USA and the other half in Europe or Africa, so it&amp;rsquo;s also been an education in how all the different countries of the world handle parental leave. Did you know that in Germany you can legally take up to 3 years of fully paid parental leave for each child, with your full salary paid by the government? That&amp;rsquo;s quite a contrast with the USA&amp;rsquo;s &amp;ldquo;we only guarantee you&amp;rsquo;ll have a job when you come back&amp;rdquo; approach!
-In an ideal world, our policy would actually offer something like 3 years fully paid leave, but the reality is that, as a team of 12 people, losing 1 person for 3 years and paying them their full salary just isn&amp;rsquo;t tenable for us. So we have to constrain. And that&amp;rsquo;s when you start to enter a world where you make trade offs between how &amp;ldquo;convenient&amp;rdquo; a policy is for the business and how well that policy reflects your values.
-The truth is that any parental leave is &amp;ldquo;inconvenient&amp;rdquo; to the company. In our case, losing one person for 12 weeks means ~10% of our entire team is out for an entire quarter. Their salary will continue to be paid, and it&amp;rsquo;s just a short enough amount of time that it probably doesn&amp;rsquo;t make sense to hire someone in their place.
-And then there&amp;rsquo;s the reality of cash positions. We only have so much cash in the bank. If too many people are out on parental leave at the same time and we&amp;rsquo;re spending their salaries but not able to generate revenue from the typical work they do, then an overly generous parental leave policy has the potential to serve the new parents among us at the expense of the other families who work in the company.
-It became clear to me that the most &amp;ldquo;convenient&amp;rdquo; thing for a business is to discourage people from having kids altogether by offering a minimal parental leave policy. An approach like that is clearly offensive.
-&amp;hellip;community kitchen containers</description>
     </item>
     
   </channel>

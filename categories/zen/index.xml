@@ -6,10 +6,29 @@
     <description>Recent content in Zen on Josh Padnick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jan 2015 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Feb 2019 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://JoshPadnick.com/categories/zen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>When It&#39;s Inconvenient for the Company</title>
+      <link>https://JoshPadnick.com/2019/02/19/when-its-inconvenient-for-the-company/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://JoshPadnick.com/2019/02/19/when-its-inconvenient-for-the-company/</guid>
+      <description>&lt;p&gt;This is a post about striking the right balance between values and business needs.&lt;/p&gt;
+
+&lt;p&gt;A few weeks ago, I helped finalize the parental leave policy at &lt;a href=&#34;https://gruntwork.io&#34;&gt;Gruntwork&lt;/a&gt; and an interesting philosophical discussion came up: How many resources is the company willing to allocate to creating a humane parenatal leave policy?&lt;/p&gt;
+
+&lt;p&gt;Some larger companies like Netflix &lt;a href=&#34;https://www.recode.net/2018/1/31/16944976/new-parents-tech-companies-google-hp-facebook-twitter-netflix&#34;&gt;offer full pay for 1 year&lt;/a&gt; when your kid is born. As a parent, that kind of benefit is…amazing. If I were an employee of Netflix, I would revel in the idea that Netflix cares about me and my family, not just the next release milestone. It would make me feel a deeper emotional connecton to the company.&lt;/p&gt;
+
+&lt;p&gt;But Gruntwork is just 12 people total with 9 engineers, and while we&amp;rsquo;ve been profitable from Day 1 and &lt;a href=&#34;https://blog.gruntwork.io/how-we-got-to-1-million-in-annual-recurring-revenue-with-0-in-fundraising-340ed2b4e158&#34;&gt;growing fast&lt;/a&gt;, if one engineer were to leave for a year, that would reduce our engineering output by, on average, 11% while still having to carry that perons&amp;rsquo;s salary. Can you imagine what kind of impact an 11% engineering output reduction would have on NetFlix? Let&amp;rsquo;s say NetFlix has 2,000 engineers. That&amp;rsquo;d be 220 engineers gone for a year…while on full payroll!&lt;/p&gt;
+
+&lt;p&gt;The reality is that, as much as I personally want to support a year-long parental leave policy, the company simply can&amp;rsquo;t afford it right now. Or to be more accurate, if we chose to support a 1-year parental leave policy, we would have to increase our cash reserves to a point that would significantly slow down hiring and other initiatives requiring working capital.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, having any parental leave policy at all is &amp;ldquo;inconvenient&amp;rdquo; for the company in the sense that it reduces your ability to pump out new features and bug fixes and/or puts additional load on the rest of the team. So…should we just have no parental leave policy at all?&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Living on $1 Day</title>
