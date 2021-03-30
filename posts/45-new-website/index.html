@@ -5,10 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     
-        <meta name="description" content="The website of Josh Padnick">
-        <meta name="keywords" content="Josh Padnick, Joshua Padnick, Gruntwork, DevOps, Entrepreneurship, Capitalism">
-        <meta name="author" content="Josh Padnick">
     
+        <meta name="keywords" content="website">
+    
+    <meta name="author" content="Josh Padnick">
+
 
     <title>
         
@@ -53,17 +54,65 @@
     <div class="container">
 
         
-    <article>
-        <h2>I Launched My New Website!</h2>
-        <section class="content">
-            <p>I&rsquo;m so happy to announce that I finally launched my new website, the very one you&rsquo;re reading right now. I really enjoy writing for its own sake, but my old Wordpress blog eventually got some configuration issues and rather than fix it, I just wanted to move to a staticly generated site.</p>
+<div class="layout-posts">
+    <div class="row">
+        <div class="col-lg-1"></div>
+
+        <div class="col">
+            <article>
+                <header>
+                    <h1>I Launched My New Website!</h1>
+                </header>
+                <section class="meta">
+                    <time datetime="2019-01-13 12:00:00.000">January 13, 2019</time>
+                    <span class="categories">
+                        
+                            <a href="/categories/website/" class="badge badge-category">website</a>
+                        
+                    </span>
+                </section>
+                <section class="content">
+                    <p>I&rsquo;m so happy to announce that I finally launched my new website, the very one you&rsquo;re reading right now. I really enjoy writing for its own sake, but my old Wordpress blog eventually got some configuration issues and rather than fix it, I just wanted to move to a staticly generated site.</p>
 <p>I chose <a href="https://gohugo.io/">Hugo</a>, a Go-based static site generator and it was a pleasure to work with. At every step, Hugo was an accelerator, never a blocker. Hugo is well-documented, relatively easy to learn, supports all the major features I needed (pagination, categories/tags, partial templates, CSS compilation and magnification, lots of template functions, custom URLs, markdown-based authorship), and of course you have the full power of Go at your finger tips.</p>
 <p>I did the bulk of the work over my holiday vacation. I allocated two days, and it wound up taking 4 days total. Yep, even this humble blog followed the typical software development pattern of things taking about twice as long as you originally expected. As a result, the design is pretty limited. If you have any design suggestions, I&rsquo;d appreciate your sharing them. In the near future, I hope to also add a commenting feature back in.</p>
 <p>I&rsquo;d also like to thank <a href="https://github.com/ibtehajraza">Ibtehaj Raza</a> who helped me migrate a bunch of the content from my old blog to the new one.</p>
 <p>I haven&rsquo;t written anything new on this blog in nearly 1.5 years! It will be fun to start writing thoughts again as I encounter them. Between growing <a href="https://gruntwork.io/">Gruntwork</a>, growing my <a href="/about">kids</a>, and life in general, I&rsquo;m looking forward to sharing.</p>
 
-        </section>
-    </article>
+                </section>
+            </article>
+
+            <section class="comments">
+                <hr>
+                <h4>Comments</h4>
+                <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "joshpadnick" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+            </section>
+
+        </div>
+
+        <div class="col-lg-1"></div>
+
+    </div>
+</div>
+
 
 
     </div>
