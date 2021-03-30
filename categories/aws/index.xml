@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aws on Josh Padnick</title>
+    <title>aws on Josh Padnick</title>
     <link>https://JoshPadnick.com/categories/aws/</link>
-    <description>Recent content in Aws on Josh Padnick</description>
+    <description>Recent content in aws on Josh Padnick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Sep 2016 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="https://JoshPadnick.com/categories/aws/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 06 Sep 2016 00:00:00 -0700</lastBuildDate><atom:link href="https://JoshPadnick.com/categories/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Talk on New AWS Services</title>
-      <link>https://JoshPadnick.com/2016/09/06/my-talk-on-new-aws-services/</link>
+      <link>https://JoshPadnick.com/posts/39-my-talk-on-new-aws-services/</link>
       <pubDate>Tue, 06 Sep 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2016/09/06/my-talk-on-new-aws-services/</guid>
+      <guid>https://JoshPadnick.com/posts/39-my-talk-on-new-aws-services/</guid>
       <description>I recently gave a talk to the AWS Phoenix Meetup on three new services and updates from AWS: the Application Load Balancer (ALB), EC2 Container Service (ECS), and Kinesis Analytics.
 More than half the software teams I meet today run Docker in production, so there was high interest in how you can use the ALB with an ECS cluster to have a more streamlined docker cluster setup.
 Some important details I since learned that are worth mentioning:
@@ -25,25 +21,22 @@ Some important details I since learned that are worth mentioning:
     
     <item>
       <title>My Thoughts from DockerCon 2016</title>
-      <link>https://JoshPadnick.com/2016/06/21/my-thoughts-from-dockercon-2016/</link>
+      <link>https://JoshPadnick.com/posts/38-my-thoughts-from-dockercon-2016/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2016/06/21/my-thoughts-from-dockercon-2016/</guid>
+      <guid>https://JoshPadnick.com/posts/38-my-thoughts-from-dockercon-2016/</guid>
       <description>&lt;p&gt;I just finished attending &lt;a href=&#34;http://2016.dockercon.com/&#34;&gt;DockerCon 2016&lt;/a&gt;, and overall it was a pretty useful conference! I like to summarize what I learned both for my own mental clarity, and so others can benefit. So here we go.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;How Many Different Ways Can You Deploy a Production Container Cluster?&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;I love Docker as a format for deploying things, but oh my gosh, how many different options are there for deploying it?&lt;/p&gt;
-
 &lt;p&gt;If you’re looking for “Heroku for Containers”, Docker has a pretty nice offering called Docker Cloud that seems really good. But once you’re ready to manage your own infrastructure, well, there was a long list to consider.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Introducing Gruntwork</title>
-      <link>https://JoshPadnick.com/2016/05/02/introducing-gruntwork/</link>
+      <link>https://JoshPadnick.com/posts/37-introducing-gruntwork/</link>
       <pubDate>Mon, 02 May 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2016/05/02/introducing-gruntwork/</guid>
+      <guid>https://JoshPadnick.com/posts/37-introducing-gruntwork/</guid>
       <description>In November 2014, I started helping software teams ramp up on Amazon Web Services and DevOps. This was gratifying work because a few years prior, I was involved in a project that did a terrible job of DevOps and suffered greatly for it. Now I was helping other teams avoid that same fate.
 And what an adventure it turned out to be! I got the chance to work with Intel, Infusionsoft, 3-person startups, a well-funded Spotify competitor and so many other interesting companies doing interesting things. I called the consulting practice Phoenix DevOps because, well, I live in Phoenix, Arizona, and it turns out the concept of immutability (sometimes known as “Phoenix Servers”) is a central tenet of DevOps.
 Along the way, I wrote A Comprehensive Guide to Building Scalable Web Apps on AWS, Part 1, and gave lots of DevOps presentations at various meetups and conferences.
@@ -62,42 +55,35 @@ Thanks for reading. Now time to get some Gruntwork done…</description>
     
     <item>
       <title>Play Framework &#43; Docker &#43; CircleCI &#43; AWS &#43; EC2 Container Service</title>
-      <link>https://JoshPadnick.com/2015/11/11/play-framework-docker-circleci-aws-ec2-container-service/</link>
+      <link>https://JoshPadnick.com/posts/36-play-framework-docker-circleci-aws-ec2-container-service/</link>
       <pubDate>Wed, 11 Nov 2015 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2015/11/11/play-framework-docker-circleci-aws-ec2-container-service/</guid>
+      <guid>https://JoshPadnick.com/posts/36-play-framework-docker-circleci-aws-ec2-container-service/</guid>
       <description>&lt;p&gt;I was invited to speak earlier tonight at &lt;a href=&#34;http://www.phxjug.org/&#34;&gt;the Phoenix Java User’s Group&lt;/a&gt; on Play Framework, DevOps, and AWS.&lt;/p&gt;
-
 &lt;p&gt;I decided to do a basic walkthrough of Play Framework, and to build a continuous deployment pipeline live as part of the presentation. I wanted to actually implement something so that (a) I would be forced to pick specific technologies I could talk about, and (b) I could talk about the real-world challenges of implementing something.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A Simple Tool for Snapshotting Your EC2 Instances</title>
-      <link>https://JoshPadnick.com/2015/06/18/a-simple-tool-for-snapshotting-your-ec2-instances/</link>
+      <link>https://JoshPadnick.com/posts/33-a-simple-tool-for-snapshotting-your-ec2-instances/</link>
       <pubDate>Thu, 18 Jun 2015 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2015/06/18/a-simple-tool-for-snapshotting-your-ec2-instances/</guid>
+      <guid>https://JoshPadnick.com/posts/33-a-simple-tool-for-snapshotting-your-ec2-instances/</guid>
       <description>&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;I wrote a simple tool that makes it easy to create an AMI of your EC2 instance, and then to delete all AMI’s older than X days/hours/minutes with a single command. Check it out at &lt;a href=&#34;https://github.com/josh-padnick/ec2-snapper&#34;&gt;https://github.com/josh-padnick/ec2-snapper&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;This works especially well for backing up WordPress blogs hosted on a single instance in AWS.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Full Post&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;There are many ways to do backups in AWS. One of them is creating an Amazon Machine Image (AMI) of your EC2 Instance so that you have a moment-in-time backup which you can use to launch a new EC2 instance in minutes.&lt;/p&gt;
-
 &lt;p&gt;It’s not the world’s most robust backup method. First, in order to guarantee that your file system is consistent at the moment of your snapshot, you have to agree to reboot your instance. Second, if you’re backing up data where even a few minutes of data loss is a big deal, this solution isn’t for you.&lt;/p&gt;
-
 &lt;p&gt;But sometimes it’s actually the best solution.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A Comprehensive Guide to Scaling Web &amp; Mobile Apps on AWS – Part 1</title>
-      <link>https://JoshPadnick.com/2015/03/16/a-comprehensive-guide-to-scaling-apps-on-aws-part-1/</link>
+      <link>https://JoshPadnick.com/posts/a-comprehensive-guide-to-scaling-apps-on-aws-part-1/</link>
       <pubDate>Mon, 16 Mar 2015 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2015/03/16/a-comprehensive-guide-to-scaling-apps-on-aws-part-1/</guid>
+      <guid>https://JoshPadnick.com/posts/a-comprehensive-guide-to-scaling-apps-on-aws-part-1/</guid>
       <description>I published a 12,000+ word guide in January on AirPair.com on building scalable apps on Amazon Web Services. I’ve been a longtime Hacker News reader so it was gratifying to see the article get 500+ upvotes on Hacker News! It also attracted about 30,000 readers in the first 24 hours of publication.
 Part 2 of the article is brewing right now, mostly in the form of gaining the real-world experience necessary to write a thorough and helpful guide.
 Read the Article on AirPair.com
@@ -108,14 +94,12 @@ Update/January 6, 2017: Looks like AirPair is back online, so you can view the a
     
     <item>
       <title>AWS Developer Fundamentals</title>
-      <link>https://JoshPadnick.com/2014/10/18/aws-developer-fundamentals/</link>
+      <link>https://JoshPadnick.com/posts/28-aws-developer-fundamentals/</link>
       <pubDate>Sat, 18 Oct 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2014/10/18/aws-developer-fundamentals/</guid>
+      <guid>https://JoshPadnick.com/posts/28-aws-developer-fundamentals/</guid>
       <description>&lt;p&gt;My second presentation at &lt;a href=&#34;http://oct2014.desertcodecamp.com/home&#34;&gt;Desert Code Camp 2014.2&lt;/a&gt; was on Amazon Web Services.&lt;/p&gt;
-
 &lt;p&gt;It was exciting to see standing room only during the talk! My main concern was keeping it interesting. The natural temptation for this kind of presentation is to do a “documentation summary” but that risks afflicting the audience with severe boredom. So I used a lot of visuals and everyday analogies in explaining AWS.&lt;/p&gt;
-
 &lt;p&gt;I spoke both about the big picture, and then went into detail on two of the most popular AWS services, EC2 and S3. I also briefly described VPC, IAM, RDS, DynamoDB, Glacier, and SES. I received numerous positive comments on the talk, so I’m pleased post the slides below.&lt;/p&gt;</description>
     </item>
     

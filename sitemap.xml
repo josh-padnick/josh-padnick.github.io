@@ -1,345 +1,199 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://JoshPadnick.com/2019/05/25/emotional-attachment-to-business-outcomes/</loc>
-    <lastmod>2019-05-25T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2019/02/19/when-its-inconvenient-for-the-company/</loc>
-    <lastmod>2019-02-19T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2019/01/13/i-launched-my-new-website/</loc>
-    <lastmod>2019-01-13T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/about/</loc>
-    <lastmod>2019-01-04T14:49:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/contact/</loc>
-    <lastmod>2019-01-04T14:49:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2017/11/25/the-best-tour-guide-ive-ever-had/</loc>
-    <lastmod>2017-11-25T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2017/04/09/the-best-way-to-buy-a-new-car/</loc>
-    <lastmod>2017-04-09T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2016/11/25/a-proposal-for-a-new-type-of-media-source-true-news/</loc>
-    <lastmod>2016-11-25T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2016/11/12/democracy-1.0/</loc>
-    <lastmod>2016-11-12T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2016/10/29/thoughts-from-dublin-ireland/</loc>
-    <lastmod>2016-10-29T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2016/09/06/my-talk-on-new-aws-services/</loc>
-    <lastmod>2016-09-06T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2016/06/21/my-thoughts-from-dockercon-2016/</loc>
-    <lastmod>2016-06-21T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2016/05/02/introducing-gruntwork/</loc>
-    <lastmod>2016-05-02T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2015/11/11/play-framework-docker-circleci-aws-ec2-container-service/</loc>
-    <lastmod>2015-11-11T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2015/09/01/my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/</loc>
-    <lastmod>2015-09-01T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2015/06/22/a-common-pattern-in-successful-companies/</loc>
-    <lastmod>2015-06-22T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2015/06/18/a-simple-tool-for-snapshotting-your-ec2-instances/</loc>
-    <lastmod>2015-06-18T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2015/03/16/a-comprehensive-guide-to-scaling-apps-on-aws-part-1/</loc>
-    <lastmod>2015-03-16T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2015/01/24/living-on-1-day/</loc>
-    <lastmod>2015-01-24T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2014/11/09/what-i-learned-teaching-programming-to-14-year-olds/</loc>
-    <lastmod>2014-11-09T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2014/10/18/aws-developer-fundamentals/</loc>
-    <lastmod>2014-10-18T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2014/10/18/introduction-to-emberjs/</loc>
-    <lastmod>2014-10-18T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2014/10/04/doing-business-in-the-right-order/</loc>
-    <lastmod>2014-10-04T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2014/09/10/ally-bank-i-hardly-knew-ye/</loc>
-    <lastmod>2014-09-10T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2014/08/07/the-user-interface-of-the-violin/</loc>
-    <lastmod>2014-08-07T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2014/04/05/my-desert-code-camp-presentation-on-server-configuration-management-with-chef/</loc>
-    <lastmod>2014-04-05T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2013/12/05/checks-and-balances-in-agile-development/</loc>
-    <lastmod>2013-12-05T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2013/11/24/paying-a-medical-bill-should-not-be-this-hard/</loc>
-    <lastmod>2013-11-24T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2013/11/24/paying-a-medical-bill-should-not-be-this-hard/</loc>
-    <lastmod>2013-11-24T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2013/11/14/basic-introduction-to-play-framework/</loc>
-    <lastmod>2013-11-14T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2013/09/11/give-give-give-then-get/</loc>
-    <lastmod>2013-09-11T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2013/06/03/your-new-normal-and-the-futility-of-stress/</loc>
-    <lastmod>2013-06-03T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2011/12/26/cutting-out-the-noise/</loc>
-    <lastmod>2011-12-26T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2011/10/13/the-power-of-frames/</loc>
-    <lastmod>2011-10-13T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2011/06/28/the-fundamental-entrepreneurship-challenge/</loc>
-    <lastmod>2011-06-28T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2011/04/05/the-technical-founder-strengths-and-weaknesses/</loc>
-    <lastmod>2011-04-05T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2011/01/02/lead-like-the-great-conductors/</loc>
-    <lastmod>2011-01-02T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2010/11/16/zappos-offers-new-hires-3000-to-quit-after-4-weeks/</loc>
-    <lastmod>2010-11-16T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2010/11/13/eliminating-distractions/</loc>
-    <lastmod>2010-11-13T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2010/11/11/the-starbucks-paradox/</loc>
-    <lastmod>2010-11-11T15:56:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2010/09/12/a-series-of-stresses-or-a-series-of-adventures/</loc>
-    <lastmod>2010-09-12T15:56:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2009/12/10/honesty/</loc>
-    <lastmod>2009-12-10T15:56:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2009/08/10/connecting-with-your-true-purpose/</loc>
-    <lastmod>2009-08-10T15:56:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2009/03/21/using-your-computer-for-actual-work/</loc>
-    <lastmod>2009-03-21T15:56:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2008/08/04/are-great-businesspeople-also-clever/</loc>
-    <lastmod>2008-08-04T15:56:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2008/06/17/are-you-ambitious-or-grandiose/</loc>
-    <lastmod>2008-06-17T15:56:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2006/11/06/why-do-entrepreneurs-become-entrepreneurs/</loc>
-    <lastmod>2006-11-06T15:56:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2006/05/08/sometimes-actually-pursuing-a-goal-is-the-worst-way-to-achieve-it/</loc>
-    <lastmod>2006-05-08T15:56:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/2006/04/04/strange-lessons-in-learning-how-to-sell-well/</loc>
-    <lastmod>2006-04-04T15:56:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/categories/aws/</loc>
-    <lastmod>2016-09-06T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/categories/capitalism/</loc>
-    <lastmod>2019-02-19T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
   <url>
     <loc>https://JoshPadnick.com/categories/</loc>
-    <lastmod>2016-09-06T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2019-05-25T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/47-emotional-attachment/</loc>
+    <lastmod>2019-05-25T00:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://JoshPadnick.com/categories/entrepreneurship/</loc>
     <lastmod>2019-05-25T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/categories/general/</loc>
-    <lastmod>2017-04-09T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://JoshPadnick.com/</loc>
     <lastmod>2019-05-25T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/categories/lessons-learned/</loc>
-    <lastmod>2017-04-09T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://JoshPadnick.com/categories/life/</loc>
     <lastmod>2019-05-25T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/post/</loc>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/</loc>
     <lastmod>2019-05-25T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/categories/presentations/</loc>
-    <lastmod>2015-11-11T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/categories/social-dynamics/</loc>
-    <lastmod>2016-11-25T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/categories/software/</loc>
-    <lastmod>2016-09-06T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/categories/travel/</loc>
-    <lastmod>2017-11-25T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://JoshPadnick.com/categories/website/</loc>
-    <lastmod>2019-01-13T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://JoshPadnick.com/categories/zen/</loc>
     <lastmod>2019-05-25T00:00:00-07:00</lastmod>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://JoshPadnick.com/categories/capitalism/</loc>
+    <lastmod>2019-02-19T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/46-when-its-convenient-for-the-company/</loc>
+    <lastmod>2019-02-19T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/45-new-website/</loc>
+    <lastmod>2019-01-13T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/categories/website/</loc>
+    <lastmod>2019-01-13T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/about/</loc>
+    <lastmod>2019-01-04T14:49:33-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/contact/</loc>
+    <lastmod>2019-01-04T14:49:33-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/44-the-best-tour-guide-ive-ever-had/</loc>
+    <lastmod>2017-11-25T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/categories/travel/</loc>
+    <lastmod>2017-11-25T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/categories/general/</loc>
+    <lastmod>2017-04-09T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/categories/lessons-learned/</loc>
+    <lastmod>2017-04-09T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/43-the-best-way-to-buy-a-new-car/</loc>
+    <lastmod>2017-04-09T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/42-a-proposal-for-a-new-type-of-media-source-copy/</loc>
+    <lastmod>2016-11-25T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/categories/social-dynamics/</loc>
+    <lastmod>2016-11-25T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/41-democracy-1.0/</loc>
+    <lastmod>2016-11-12T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/thoughts-from-dublin-ireland/</loc>
+    <lastmod>2016-10-29T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/categories/aws/</loc>
+    <lastmod>2016-09-06T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/39-my-talk-on-new-aws-services/</loc>
+    <lastmod>2016-09-06T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/categories/software/</loc>
+    <lastmod>2016-09-06T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/38-my-thoughts-from-dockercon-2016/</loc>
+    <lastmod>2016-06-21T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/37-introducing-gruntwork/</loc>
+    <lastmod>2016-05-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/36-play-framework-docker-circleci-aws-ec2-container-service/</loc>
+    <lastmod>2015-11-11T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/categories/presentations/</loc>
+    <lastmod>2015-11-11T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/35-my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/</loc>
+    <lastmod>2015-09-01T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/32-a-common-pattern-in-successful-companies/</loc>
+    <lastmod>2015-06-22T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/33-a-simple-tool-for-snapshotting-your-ec2-instances/</loc>
+    <lastmod>2015-06-18T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/a-comprehensive-guide-to-scaling-apps-on-aws-part-1/</loc>
+    <lastmod>2015-03-16T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/20-living-on-1-day/</loc>
+    <lastmod>2015-01-24T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/30-what-i-learned-teaching-programming-to-14-year-olds/</loc>
+    <lastmod>2014-11-09T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/28-aws-developer-fundamentals/</loc>
+    <lastmod>2014-10-18T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/29-introduction-to-ember-js/</loc>
+    <lastmod>2014-10-18T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/27-doing-business-in-the-right-order/</loc>
+    <lastmod>2014-10-04T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/ally-bank-i-hardly-knew-ye/</loc>
+    <lastmod>2014-09-10T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/19-the-user-interface-of-the-violin/</loc>
+    <lastmod>2014-08-07T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/24-desert-code-camp-chef/</loc>
+    <lastmod>2014-04-05T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/23-checks-and-balances-in-agile-development/</loc>
+    <lastmod>2013-12-05T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/21-paying-a-medical-bill-should-not-be-this-hard/</loc>
+    <lastmod>2013-11-24T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/34-paying-a-medical-bill-should-not-be-this-hard/</loc>
+    <lastmod>2013-11-24T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/25-desert-code-camp-play-framework/</loc>
+    <lastmod>2013-11-14T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/18-give-give-give-then-get/</loc>
+    <lastmod>2013-09-11T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/17-your-new-normal-and-the-futility-of-stress/</loc>
+    <lastmod>2013-06-03T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/16-cutting-out-the-noise/</loc>
+    <lastmod>2011-12-26T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/15-the-power-of-frames/</loc>
+    <lastmod>2011-10-13T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/14-the-fundamental-entrepreneurship-challenge/</loc>
+    <lastmod>2011-06-28T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/21-the-technical-founder-strengths-and-weaknesses/</loc>
+    <lastmod>2011-04-05T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/13-lead-like-the-great-conductors/</loc>
+    <lastmod>2011-01-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/12-zappos-offers-new-hires/</loc>
+    <lastmod>2010-11-16T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/11-eliminating-distraction/</loc>
+    <lastmod>2010-11-13T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/10-starbucks-paradox/</loc>
+    <lastmod>2010-11-11T15:56:33-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/9-stresses-or-adventures/</loc>
+    <lastmod>2010-09-12T15:56:33-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/8-honesty/</loc>
+    <lastmod>2009-12-10T15:56:33-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/7-connecting-with-true-purpose/</loc>
+    <lastmod>2009-08-10T15:56:33-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/6-using-your-computer-for-actual-work/</loc>
+    <lastmod>2009-03-21T15:56:33-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/5-are-great-businesspeople-also-clever/</loc>
+    <lastmod>2008-08-04T15:56:33-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/4-ambitious-or-grandiose/</loc>
+    <lastmod>2008-06-17T15:56:33-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/3-why-do-entrepreneurs-become-entrepreneurs/</loc>
+    <lastmod>2006-11-06T15:56:33-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/2-counter-goals/</loc>
+    <lastmod>2006-05-08T15:56:33-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/posts/1-strange-lessons/</loc>
+    <lastmod>2006-04-04T15:56:33-07:00</lastmod>
+  </url><url>
+    <loc>https://JoshPadnick.com/tags/</loc>
   </url>
-  
 </urlset>

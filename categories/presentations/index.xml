@@ -1,83 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Presentations on Josh Padnick</title>
+    <title>presentations on Josh Padnick</title>
     <link>https://JoshPadnick.com/categories/presentations/</link>
-    <description>Recent content in Presentations on Josh Padnick</description>
+    <description>Recent content in presentations on Josh Padnick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2015 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="https://JoshPadnick.com/categories/presentations/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 11 Nov 2015 00:00:00 -0700</lastBuildDate><atom:link href="https://JoshPadnick.com/categories/presentations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Play Framework &#43; Docker &#43; CircleCI &#43; AWS &#43; EC2 Container Service</title>
-      <link>https://JoshPadnick.com/2015/11/11/play-framework-docker-circleci-aws-ec2-container-service/</link>
+      <link>https://JoshPadnick.com/posts/36-play-framework-docker-circleci-aws-ec2-container-service/</link>
       <pubDate>Wed, 11 Nov 2015 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2015/11/11/play-framework-docker-circleci-aws-ec2-container-service/</guid>
+      <guid>https://JoshPadnick.com/posts/36-play-framework-docker-circleci-aws-ec2-container-service/</guid>
       <description>&lt;p&gt;I was invited to speak earlier tonight at &lt;a href=&#34;http://www.phxjug.org/&#34;&gt;the Phoenix Java User’s Group&lt;/a&gt; on Play Framework, DevOps, and AWS.&lt;/p&gt;
-
 &lt;p&gt;I decided to do a basic walkthrough of Play Framework, and to build a continuous deployment pipeline live as part of the presentation. I wanted to actually implement something so that (a) I would be forced to pick specific technologies I could talk about, and (b) I could talk about the real-world challenges of implementing something.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>My Talk on Choosing the Right Framework for Running Docker Containers in Production</title>
-      <link>https://JoshPadnick.com/2015/09/01/my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/</link>
+      <link>https://JoshPadnick.com/posts/35-my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2015/09/01/my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/</guid>
+      <guid>https://JoshPadnick.com/posts/35-my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/</guid>
       <description>&lt;p&gt;I spoke today at &lt;a href=&#34;http://www.iteratephx.co/&#34;&gt;Iterate.PHX&lt;/a&gt;, a DevOps conference put on right here in Phoenix, AZ.&lt;/p&gt;
-
 &lt;p&gt;My topic was on choosing the right framework for running docker containers in production. I specifically focus on the “multi-container VM” paradigm since if you’re OK to just run a single container per VM, then you don’t really need a framework at all. In that case, Docker is really just your deployment artifact.&lt;/p&gt;
-
 &lt;p&gt;The slides are below, and if there’s a video of the talk I’ll add that here as well. Enjoy!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>AWS Developer Fundamentals</title>
-      <link>https://JoshPadnick.com/2014/10/18/aws-developer-fundamentals/</link>
+      <link>https://JoshPadnick.com/posts/28-aws-developer-fundamentals/</link>
       <pubDate>Sat, 18 Oct 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2014/10/18/aws-developer-fundamentals/</guid>
+      <guid>https://JoshPadnick.com/posts/28-aws-developer-fundamentals/</guid>
       <description>&lt;p&gt;My second presentation at &lt;a href=&#34;http://oct2014.desertcodecamp.com/home&#34;&gt;Desert Code Camp 2014.2&lt;/a&gt; was on Amazon Web Services.&lt;/p&gt;
-
 &lt;p&gt;It was exciting to see standing room only during the talk! My main concern was keeping it interesting. The natural temptation for this kind of presentation is to do a “documentation summary” but that risks afflicting the audience with severe boredom. So I used a lot of visuals and everyday analogies in explaining AWS.&lt;/p&gt;
-
 &lt;p&gt;I spoke both about the big picture, and then went into detail on two of the most popular AWS services, EC2 and S3. I also briefly described VPC, IAM, RDS, DynamoDB, Glacier, and SES. I received numerous positive comments on the talk, so I’m pleased post the slides below.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Introduction to EmberJS</title>
-      <link>https://JoshPadnick.com/2014/10/18/introduction-to-emberjs/</link>
+      <link>https://JoshPadnick.com/posts/29-introduction-to-ember-js/</link>
       <pubDate>Sat, 18 Oct 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2014/10/18/introduction-to-emberjs/</guid>
+      <guid>https://JoshPadnick.com/posts/29-introduction-to-ember-js/</guid>
       <description>&lt;p&gt;I gave two presentations at &lt;a href=&#34;http://oct2014.desertcodecamp.com/home&#34;&gt;Desert Code Camp 2014.2&lt;/a&gt; earlier today. The first was an intro to EmberJS.&lt;/p&gt;
-
 &lt;p&gt;Ember is known for its steep initial learning curve and it was an interesting challenge trying to pack in so many concepts in 60 minutes. I had a great time preparing for, and giving the talk.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>My Desert Code Camp Presentation on Server Configuration Management with Chef</title>
-      <link>https://JoshPadnick.com/2014/04/05/my-desert-code-camp-presentation-on-server-configuration-management-with-chef/</link>
+      <link>https://JoshPadnick.com/posts/24-desert-code-camp-chef/</link>
       <pubDate>Sat, 05 Apr 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2014/04/05/my-desert-code-camp-presentation-on-server-configuration-management-with-chef/</guid>
+      <guid>https://JoshPadnick.com/posts/24-desert-code-camp-chef/</guid>
       <description>&lt;p&gt;I gave this talk at Desert Code Camp earlier today as part of the DevOps track. It gives an introduction to Chef with a special emphasis on getting you to Hello World and beyond.&lt;/p&gt;
-
 &lt;p&gt;They say Chef has a steep learning curve, but I think that’s only because there are a lot of concepts you need to know before you can do the most basic things. I tried to cover most of those concepts here. I also included some best practices I discovered such as how to handle secrets like passwords and certificates using Chef.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Basic Introduction to Play Framework</title>
-      <link>https://JoshPadnick.com/2013/11/14/basic-introduction-to-play-framework/</link>
+      <link>https://JoshPadnick.com/posts/25-desert-code-camp-play-framework/</link>
       <pubDate>Thu, 14 Nov 2013 00:00:00 -0700</pubDate>
       
-      <guid>https://JoshPadnick.com/2013/11/14/basic-introduction-to-play-framework/</guid>
+      <guid>https://JoshPadnick.com/posts/25-desert-code-camp-play-framework/</guid>
       <description>&lt;p&gt;I recently gave a talk at Desert Code Camp 2013.2 on an introduction to &lt;a href=&#34;http://playframework.com/&#34;&gt;Play Framework&lt;/a&gt;. I’m just getting started with it, but there are several concepts that got me interested:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Non-blocking / Evented vs. Threaded&lt;/li&gt;
 &lt;li&gt;Command-line interface to compile, test, and more&lt;/li&gt;
